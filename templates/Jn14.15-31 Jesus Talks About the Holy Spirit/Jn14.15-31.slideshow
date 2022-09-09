@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus talks about the Holy Spirit</title>
+  <title lang="fr">Jésus parle du Saint-Esprit</title>
+  <title lang="nl">Jezus praat over de Heilige Geest</title>
+  <title lang="pt">Jesus fala sobre o Espírito Santo</title>
+  <title lang="es">Jesús habla del Espíritu Santo</title>
+  <title lang="cust">Jesus talks about the Holy Spirit</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn14.15-31-title-eng.odg</image>
+    <image lang="fr">Jn14.15-31-title-fra.odg</image>
+    <image lang="nl">Jn14.15-31-title-ndl.odg</image>
+    <image lang="pt">Jn14.15-31-title-por.odg</image>
+    <image lang="es">Jn14.15-31-title-spa.odg</image>
+    <image lang="cust">Jn14.15-31-title-cust.odg</image>
+    <image>Jn14.15-31-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v15-16.jpg</image>
+    <narration start="JHN.14.15"/>
+    <motion start="0.099 0.071 0.777 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v17.jpg</image>
+    <narration start="JHN.14.17"/>
+    <motion start="0 0 1 1" end="0.183 0.142 0.703 0.708"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v18-19.jpg</image>
+    <narration start="JHN.14.18"/>
+    <motion start="0 0.159 0.743 0.743" end="0.243 0.097 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v20.jpg</image>
+    <narration start="JHN.14.20"/>
+    <motion start="0.005 0.080 0.891 0.894" end="0.168 0.080 0.832 0.832"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v21.jpg</image>
+    <narration start="JHN.14.21"/>
+    <motion start="0.045 0.088 0.673 0.673" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v22.jpg</image>
+    <narration start="JHN.14.22"/>
+    <motion start="0 0 1 1" end="0.153 0.018 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v23.jpg</image>
+    <narration start="JHN.14.23"/>
+    <motion start="0 0.080 0.772 0.779" end="0.158 0.027 0.792 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v24.jpg</image>
+    <narration start="JHN.14.24"/>
+    <motion start="0 0 0.847 0.850" end="0.109 0.106 0.891 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v25.jpg</image>
+    <narration start="JHN.14.25"/>
+    <motion start="0 0.097 0.881 0.885" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v26.jpg</image>
+    <narration start="JHN.14.26"/>
+    <motion start="0.188 0.044 0.812 0.814" end="0.020 0.044 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v27.jpg</image>
+    <narration start="JHN.14.27"/>
+    <motion start="0 0 1 1" end="0.144 0.071 0.743 0.743"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v28.jpg</image>
+    <narration start="JHN.14.28"/>
+    <motion start="0.158 0.071 0.842 0.850" end="0.015 0.053 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v29.jpg</image>
+    <narration start="JHN.14.29"/>
+    <motion start="0.094 0.062 0.713 0.717" end="0.069 0 0.861 0.867"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v30.jpg</image>
+    <narration start="JHN.14.30"/>
+    <motion start="0 0 1 1" end="0.050 0.097 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn14.15-31 Jesus talks about the Holy Spirit/VB-John 14v31.jpg</image>
+    <narration start="JHN.14.31" end="JHN.14.31"/>
+    <motion start="0.158 0.097 0.792 0.796" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

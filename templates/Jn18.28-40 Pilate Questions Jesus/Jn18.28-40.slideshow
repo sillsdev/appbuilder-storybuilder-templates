@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Pilate questions Jesus</title>
+  <title lang="fr">Pilate interroge Jésus</title>
+  <title lang="nl">Pilatus stelt Jezus vragen</title>
+  <title lang="pt">Pilatos pergunta a Jesus</title>
+  <title lang="es">Pilato le pregunta a Jesús</title>
+  <title lang="cust">Pilate questions Jesus</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn18.28-40-title-eng.odg</image>
+    <image lang="fr">Jn18.28-40-title-fra.odg</image>
+    <image lang="nl">Jn18.28-40-title-ndl.odg</image>
+    <image lang="pt">Jn18.28-40-title-por.odg</image>
+    <image lang="es">Jn18.28-40-title-spa.odg</image>
+    <image lang="cust">Jn18.28-40-title-cust.odg</image>
+    <image>Jn18.28-40-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v28.jpg</image>
+    <narration start="JHN.18.28"/>
+    <motion start="0.262 0.027 0.505 0.504" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v29.jpg</image>
+    <narration start="JHN.18.29"/>
+    <motion start="0 0 1 1" end="0.094 0.062 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v30.jpg</image>
+    <narration start="JHN.18.30"/>
+    <motion start="0.149 0.053 0.792 0.796" end="0.040 0 0.752 0.752"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v31a.jpg</image>
+    <narration start="JHN.18.31"/>
+    <motion start="0 0 1 1" end="0.267 0.035 0.673 0.673"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v31b-32.jpg</image>
+    <motion start="0.119 0.097 0.594 0.593" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v33.jpg</image>
+    <narration start="JHN.18.33"/>
+    <motion start="0.292 0.035 0.683 0.690" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v34.jpg</image>
+    <narration start="JHN.18.34"/>
+    <motion start="0 0 1 1" end="0.213 0.115 0.703 0.708"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v35.jpg</image>
+    <narration start="JHN.18.35"/>
+    <motion start="0.025 0.071 0.743 0.743" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v36.jpg</image>
+    <narration start="JHN.18.36"/>
+    <motion start="0.198 0.062 0.713 0.717" end="0.054 0 0.673 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v37a.jpg</image>
+    <narration start="JHN.18.37"/>
+    <motion start="0 0 1 1" end="0.025 0.044 0.837 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v37b.jpg</image>
+    <motion start="0 0 1 1" end="0.208 0.062 0.683 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v38a.jpg</image>
+    <narration start="JHN.18.38"/>
+    <motion start="0.010 0.053 0.703 0.708" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v38b.jpg</image>
+    <motion start="0.228 0 0.772 0.779" end="0.114 0 0.658 0.655"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v39.jpg</image>
+    <narration start="JHN.18.39"/>
+    <motion start="0.243 0.044 0.673 0.673" end="0 0.009 1 0.982"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.28-40 Pilate questions Jesus/VB-John 18v40alt.jpg</image>
+    <narration start="JHN.18.40" end="JHN.18.40"/>
+    <motion start="0.005 0.044 0.663 0.664" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The Bread of Life</title>
+  <title lang="fr">Le pain de vie</title>
+  <title lang="nl">Het brood des levens</title>
+  <title lang="pt">O pão da vida</title>
+  <title lang="es">El pan de vida</title>
+  <title lang="cust">The Bread of Life</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn06.22-71-title-eng.odg</image>
+    <image lang="fr">Jn06.22-71-title-fra.odg</image>
+    <image lang="nl">Jn06.22-71-title-ndl.odg</image>
+    <image lang="pt">Jn06.22-71-title-por.odg</image>
+    <image lang="es">Jn06.22-71-title-spa.odg</image>
+    <image lang="cust">Jn06.22-71-title-cust.odg</image>
+    <image>Jn06.22-71-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v22.jpg</image>
+    <narration start="JHN.6.22"/>
+    <motion start="0 0 1 1" end="0.153 0.230 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v23.jpg</image>
+    <narration start="JHN.6.23"/>
+    <motion start="0 0 1 1" end="0.139 0 0.851 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v24.jpg</image>
+    <narration start="JHN.6.24"/>
+    <motion start="0 0 0.817 0.814" end="0.144 0 0.856 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v25.jpg</image>
+    <narration start="JHN.6.25"/>
+    <motion start="0.104 0.044 0.896 0.894" end="0.248 0.097 0.752 0.752"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v26.jpg</image>
+    <narration start="JHN.6.26"/>
+    <motion start="0.079 0 0.842 0.850" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v27.jpg</image>
+    <narration start="JHN.6.27"/>
+    <motion start="0.015 0 0.851 0.858" end="0.119 0 0.881 0.885"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v28.jpg</image>
+    <narration start="JHN.6.28"/>
+    <motion start="0 0 1 1" end="0.010 0.044 0.881 0.885"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v29.jpg</image>
+    <narration start="JHN.6.29"/>
+    <motion start="0.005 0 0.990 1" end="0.025 0.035 0.812 0.814"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v30.jpg</image>
+    <narration start="JHN.6.30"/>
+    <motion start="0 0 0.842 0.850" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v31.jpg</image>
+    <narration start="JHN.6.31"/>
+    <motion start="0.045 0 0.861 0.858" end="0.124 0 0.851 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v32.jpg</image>
+    <narration start="JHN.6.32"/>
+    <motion start="0 0 0.743 0.743" end="0.020 0.080 0.604 0.602"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v33.jpg</image>
+    <narration start="JHN.6.33"/>
+    <motion start="0.015 0 0.842 0.850" end="0.114 0 0.861 0.867"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v34.jpg</image>
+    <narration start="JHN.6.34"/>
+    <motion start="0 0 0.782 0.779" end="0 0 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v35.jpg</image>
+    <narration start="JHN.6.35"/>
+    <motion start="0 0 1 1" end="0.089 0 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v36.jpg</image>
+    <narration start="JHN.6.36"/>
+    <motion start="0 0 1 1" end="0.104 0 0.896 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v37-38.jpg</image>
+    <narration start="JHN.6.37"/>
+    <motion start="0 0 0.861 0.867" end="0.163 0.044 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v39-40.jpg</image>
+    <narration start="JHN.6.39"/>
+    <motion start="0 0 1 1" end="0.104 0.062 0.792 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v41-42.jpg</image>
+    <narration start="JHN.6.41"/>
+    <motion start="0 0 1 1" end="0.183 0.097 0.792 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v43-44.jpg</image>
+    <narration start="JHN.6.43"/>
+    <motion start="0 0 1 1" end="0.119 0.071 0.733 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v45.jpg</image>
+    <narration start="JHN.6.45"/>
+    <motion start="0 0 0.832 0.832" end="0.069 0.018 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v46.jpg</image>
+    <narration start="JHN.6.46"/>
+    <motion start="0 0 1 1" end="0.015 0.097 0.851 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v47.jpg</image>
+    <narration start="JHN.6.47"/>
+    <motion start="0.099 0.186 0.653 0.655" end="0.139 0.195 0.594 0.593"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v48.jpg</image>
+    <narration start="JHN.6.48"/>
+    <motion start="0.257 0.115 0.743 0.743" end="0.327 0.150 0.629 0.628"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v49.jpg</image>
+    <narration start="JHN.6.49"/>
+    <motion start="0 0.168 0.832 0.832" end="0 0.283 0.718 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v50.jpg</image>
+    <narration start="JHN.6.50"/>
+    <motion start="0 0 1 1" end="0.015 0.009 0.891 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v51.jpg</image>
+    <narration start="JHN.6.51"/>
+    <motion start="0 0.062 0.842 0.841" end="0.153 0.088 0.842 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v52.jpg</image>
+    <narration start="JHN.6.52"/>
+    <motion start="0.035 0.088 0.772 0.770" end="0.005 0.124 0.584 0.584"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v53.jpg</image>
+    <narration start="JHN.6.53"/>
+    <motion start="0.079 0.142 0.792 0.796" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v54.jpg</image>
+    <narration start="JHN.6.54"/>
+    <motion start="0.163 0.159 0.837 0.841" end="0.109 0.106 0.891 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v55.jpg</image>
+    <narration start="JHN.6.55"/>
+    <motion start="0 0 1 1" end="0.050 0 0.901 0.912"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v56-57.jpg</image>
+    <narration start="JHN.6.56"/>
+    <motion start="0.015 0.150 0.802 0.805" end="0.158 0.150 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v58.jpg</image>
+    <narration start="JHN.6.58"/>
+    <motion start="0 0.080 0.921 0.920" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v59.jpg</image>
+    <narration start="JHN.6.59"/>
+    <motion start="0 0 1 1" end="0.069 0 0.931 0.929"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v60.jpg</image>
+    <narration start="JHN.6.60"/>
+    <motion start="0 0 1 1" end="0 0.080 0.847 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v61.jpg</image>
+    <narration start="JHN.6.61"/>
+    <motion start="0 0 1 1" end="0.064 0.062 0.881 0.885"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v62.jpg</image>
+    <narration start="JHN.6.62"/>
+    <motion start="0 0.027 0.901 0.903" end="0.114 0.018 0.871 0.876"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v63.jpg</image>
+    <narration start="JHN.6.63"/>
+    <motion start="0.064 0.124 0.871 0.876" end="0.144 0.088 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v64.jpg</image>
+    <narration start="JHN.6.64"/>
+    <motion start="0.119 0.088 0.842 0.841" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v65-66.jpg</image>
+    <narration start="JHN.6.65"/>
+    <motion start="0 0.142 0.856 0.858" end="0.168 0.062 0.832 0.832"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v67.jpg</image>
+    <narration start="JHN.6.67"/>
+    <motion start="0 0 1 1" end="0.079 0.062 0.851 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v68.jpg</image>
+    <narration start="JHN.6.68"/>
+    <motion start="0 0 1 1" end="0.079 0 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v69.jpg</image>
+    <narration start="JHN.6.69"/>
+    <motion start="0.134 0 0.733 0.735" end="0.109 0 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v70.jpg</image>
+    <narration start="JHN.6.70"/>
+    <motion start="0 0 1 1" end="0.104 0 0.896 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.22-71 The Bread of Life/VB-John 6v71.jpg</image>
+    <narration start="JHN.6.71" end="JHN.6.71"/>
+    <motion start="0.223 0.080 0.777 0.779" end="0.267 0.142 0.663 0.664"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

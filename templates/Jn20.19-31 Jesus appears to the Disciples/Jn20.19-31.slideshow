@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus appears to the disciples</title>
+  <title lang="fr">Jésus apparaît aux disciples</title>
+  <title lang="nl">Jezus verschijnt aan de discipelen</title>
+  <title lang="pt">Jesus aparece para os discípulos</title>
+  <title lang="es">Jesús se aparece a los discípulos</title>
+  <title lang="cust">Jesus appears to the disciples</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn20.19-31-title-eng.odg</image>
+    <image lang="fr">Jn20.19-31-title-fra.odg</image>
+    <image lang="nl">Jn20.19-31-title-ndl.odg</image>
+    <image lang="pt">Jn20.19-31-title-por.odg</image>
+    <image lang="es">Jn20.19-31-title-spa.odg</image>
+    <image lang="cust">Jn20.19-31-title-cust.odg</image>
+    <image>Jn20.19-31-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v19a.jpg</image>
+    <narration start="JHN.20.19"/>
+    <motion start="0.079 0.301 0.693 0.699" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v19b.jpg</image>
+    <motion start="0 0 1 1" end="0.040 0.018 0.787 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v20_alt.jpg</image>
+    <narration start="JHN.20.20"/>
+    <motion start="0 0 1 1" end="0 0.301 0.693 0.699"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v21.jpg</image>
+    <narration start="JHN.20.21"/>
+    <motion start="0.119 0.097 0.683 0.681" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v22.jpg</image>
+    <narration start="JHN.20.22"/>
+    <motion start="0 0.115 0.762 0.770" end="0.257 0.053 0.743 0.743"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v23.jpg</image>
+    <narration start="JHN.20.23"/>
+    <motion start="0.079 0.159 0.703 0.708" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v24.jpg</image>
+    <narration start="JHN.20.24"/>
+    <motion start="0 0 1 1" end="0.178 0.097 0.683 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v25a.jpg</image>
+    <narration start="JHN.20.25"/>
+    <motion start="0.139 0.080 0.767 0.770" end="0.005 0 0.990 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v25b.jpg</image>
+    <motion start="0 0 1 1" end="0.168 0.062 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v26a.jpg</image>
+    <narration start="JHN.20.26"/>
+    <motion start="0.089 0.062 0.762 0.770" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v26b.jpg</image>
+    <motion start="0 0 1 1" end="0.173 0.062 0.777 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v27a.jpg</image>
+    <narration start="JHN.20.27"/>
+    <motion start="0.104 0.115 0.752 0.752" end="0.248 0.053 0.738 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v27b.jpg</image>
+    <motion start="0 0 1 1" end="0.233 0.106 0.673 0.673"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v28.jpg</image>
+    <narration start="JHN.20.28"/>
+    <motion start="0 0 1 1" end="0.040 0.071 0.757 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v29a.jpg</image>
+    <narration start="JHN.20.29"/>
+    <motion start="0.099 0.088 0.772 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v29b.jpg</image>
+    <motion start="0.173 0.044 0.802 0.805" end="0.010 0 0.812 0.814"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v30.jpg</image>
+    <narration start="JHN.20.30"/>
+    <motion start="0.119 0.159 0.842 0.841" end="0.054 0.027 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn20.19-31 Jesus appears to the disciples/VB-John 20v31.jpg</image>
+    <narration start="JHN.20.31" end="JHN.20.31"/>
+    <motion start="0.134 0.044 0.772 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

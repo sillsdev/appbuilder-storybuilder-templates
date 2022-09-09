@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus sentenced to death</title>
+  <title lang="fr">Jésus condamné à mort</title>
+  <title lang="nl">Jezus werd ter dood veroordeeld</title>
+  <title lang="pt">Jesus condenado à morte</title>
+  <title lang="es">Jesús condenado a muerte</title>
+  <title lang="cust">Jesus sentenced to death</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn19.01-16-title-eng.odg</image>
+    <image lang="fr">Jn19.01-16-title-fra.odg</image>
+    <image lang="nl">Jn19.01-16-title-ndl.odg</image>
+    <image lang="pt">Jn19.01-16-title-por.odg</image>
+    <image lang="es">Jn19.01-16-title-spa.odg</image>
+    <image lang="cust">Jn19.01-16-title-cust.odg</image>
+    <image>Jn19.01-16-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v1.jpg</image>
+    <narration start="JHN.19.1"/>
+    <motion start="0.139 0.080 0.762 0.761" end="0 0 1 0.982"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v2.jpg</image>
+    <narration start="JHN.19.2"/>
+    <motion start="0 0 1 1" end="0.153 0.177 0.604 0.602"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v3.jpg</image>
+    <narration start="JHN.19.3"/>
+    <motion start="0 0 1 1" end="0.193 0.195 0.673 0.673"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v4.jpg</image>
+    <narration start="JHN.19.4"/>
+    <motion start="0.208 0 0.792 0.796" end="0.005 0.106 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v5.jpg</image>
+    <narration start="JHN.19.5"/>
+    <motion start="0.193 0.088 0.693 0.699" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v6a.jpg</image>
+    <narration start="JHN.19.6"/>
+    <motion start="0.183 0.071 0.792 0.796" end="0 0.115 0.683 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v6b.jpg</image>
+    <motion start="0.223 0.097 0.673 0.673" end="0.005 0 0.990 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v7.jpg</image>
+    <narration start="JHN.19.7"/>
+    <motion start="0.114 0 0.772 0.779" end="0 0 1 0.991"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v8.jpg</image>
+    <narration start="JHN.19.8"/>
+    <motion start="0 0 1 1" end="0.233 0.080 0.653 0.655"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v9.jpg</image>
+    <narration start="JHN.19.9"/>
+    <motion start="0.109 0.053 0.752 0.752" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v10.jpg</image>
+    <narration start="JHN.19.10"/>
+    <motion start="0.084 0 0.832 0.832" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v11.jpg</image>
+    <narration start="JHN.19.11"/>
+    <motion start="0 0 1 0.982" end="0.139 0.044 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v12a.jpg</image>
+    <narration start="JHN.19.12"/>
+    <motion start="0 0 0.812 0.814" end="0.139 0.150 0.792 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v12b.jpg</image>
+    <motion start="0 0 1 1" end="0.050 0.071 0.743 0.743"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v13.jpg</image>
+    <narration start="JHN.19.13"/>
+    <motion start="0.238 0.204 0.693 0.699" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v14.jpg</image>
+    <narration start="JHN.19.14"/>
+    <motion start="0.223 0.142 0.762 0.761" end="0.015 0.088 0.812 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v15a.jpg</image>
+    <narration start="JHN.19.15"/>
+    <motion start="0.218 0.071 0.782 0.788" end="0 0 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v15b.jpg</image>
+    <motion start="0 0 1 1" end="0.025 0 0.832 0.832"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v15c.jpg</image>
+    <motion start="0.158 0.080 0.842 0.850" end="0.129 0.088 0.767 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v16a-1.jpg</image>
+    <narration start="JHN.19.16"/>
+    <motion start="0.114 0.106 0.797 0.796" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.01-16 Jesus sentenced to death/VB-John 19v16a-2.jpg</image>
+    <narration end="JHN.19.16"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

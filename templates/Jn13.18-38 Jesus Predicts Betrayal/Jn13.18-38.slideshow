@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus predicts betrayal</title>
+  <title lang="fr">Jésus prédit la trahison</title>
+  <title lang="nl">Jezus voorspelt verraad</title>
+  <title lang="pt">Jesus prediz traição</title>
+  <title lang="es">Jesús predice la traición</title>
+  <title lang="cust">Jesus predicts betrayal</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn13.18-38-title-eng.odg</image>
+    <image lang="fr">Jn13.18-38-title-fra.odg</image>
+    <image lang="nl">Jn13.18-38-title-ndl.odg</image>
+    <image lang="pt">Jn13.18-38-title-por.odg</image>
+    <image lang="es">Jn13.18-38-title-spa.odg</image>
+    <image lang="cust">Jn13.18-38-title-cust.odg</image>
+    <image>Jn13.18-38-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v18.jpg</image>
+    <narration start="JHN.13.18"/>
+    <motion start="0.233 0.159 0.554 0.558" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v19.jpg</image>
+    <narration start="JHN.13.19"/>
+    <motion start="0 0 1 1" end="0.149 0.115 0.772 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v20.jpg</image>
+    <narration start="JHN.13.20"/>
+    <motion start="0.228 0.097 0.772 0.779" end="0 0.080 0.743 0.743"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v21.jpg</image>
+    <narration start="JHN.13.21"/>
+    <motion start="0.040 0.044 0.703 0.708" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v22.jpg</image>
+    <narration start="JHN.13.22"/>
+    <motion start="0 0 1 1" end="0.089 0 0.822 0.832"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v23.jpg</image>
+    <narration start="JHN.13.23"/>
+    <motion start="0.025 0.159 0.792 0.796" end="0.134 0.150 0.812 0.814"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v24.jpg</image>
+    <narration start="JHN.13.24"/>
+    <motion start="0.010 0 0.851 0.858" end="0.124 0.027 0.851 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v25.jpg</image>
+    <narration start="JHN.13.25"/>
+    <motion start="0 0 1 1" end="0.153 0.044 0.762 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v26.jpg</image>
+    <narration start="JHN.13.26"/>
+    <motion start="0.198 0.053 0.693 0.699" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v27a.jpg</image>
+    <narration start="JHN.13.27"/>
+    <motion start="0.119 0.106 0.762 0.770" end="0.188 0.230 0.594 0.593"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v27b.jpg</image>
+    <motion start="0.064 0.053 0.802 0.805" end="0.213 0 0.787 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v28.jpg</image>
+    <narration start="JHN.13.28"/>
+    <motion start="0 0 0.871 0.876" end="0.109 0 0.891 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v29.jpg</image>
+    <narration start="JHN.13.29"/>
+    <motion start="0.173 0.044 0.772 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v30.jpg</image>
+    <narration start="JHN.13.30"/>
+    <motion start="0.183 0.097 0.817 0.805" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v31.jpg</image>
+    <narration start="JHN.13.31"/>
+    <motion start="0 0 1 1" end="0.144 0.044 0.797 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v32.jpg</image>
+    <narration start="JHN.13.32"/>
+    <motion start="0.064 0.088 0.802 0.805" end="0.168 0.035 0.762 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v33a.jpg</image>
+    <narration start="JHN.13.33"/>
+    <motion start="0.059 0.133 0.782 0.788" end="0 0.053 0.891 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v33b.jpg</image>
+    <motion start="0 0 1 1" end="0.153 0.080 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v34.jpg</image>
+    <narration start="JHN.13.34"/>
+    <motion start="0.059 0.124 0.876 0.876" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v35.jpg</image>
+    <narration start="JHN.13.35"/>
+    <motion start="0 0.150 0.847 0.850" end="0.134 0.150 0.842 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v36a.jpg</image>
+    <narration start="JHN.13.36"/>
+    <motion start="0 0 1 1" end="0 0 0.936 0.938"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v36b.jpg</image>
+    <motion start="0.035 0 0.822 0.823" end="0 0 0.752 0.752"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v37.jpg</image>
+    <narration start="JHN.13.37"/>
+    <motion start="0 0 1 1" end="0.104 0.106 0.713 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn13.18-38 Jesus predicts betrayal/VB-John 13v38.jpg</image>
+    <narration start="JHN.13.38" end="JHN.13.38"/>
+    <motion start="0.158 0.088 0.782 0.788" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

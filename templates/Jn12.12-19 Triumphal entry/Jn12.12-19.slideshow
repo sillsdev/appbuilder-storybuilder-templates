@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Triumphal entry</title>
+  <title lang="fr">Entrée triomphale de Jésus à Jérusalem</title>
+  <title lang="nl">Triomfantelijk toegang</title>
+  <title lang="pt">Entrada triunfal de Jesusem Jerusalém</title>
+  <title lang="es">La entrada triunfal de Jesús a Jerusalén</title>
+  <title lang="cust">Triumphal entry</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn12.12-19-title-eng.odg</image>
+    <image lang="fr">Jn12.12-19-title-fra.odg</image>
+    <image lang="nl">Jn12.12-19-title-ndl.odg</image>
+    <image lang="pt">Jn12.12-19-title-por.odg</image>
+    <image lang="es">Jn12.12-19-title-spa.odg</image>
+    <image lang="cust">Jn12.12-19-title-cust.odg</image>
+    <image>Jn12.12-19-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12-12.jpg</image>
+    <narration start="JHN.12.12"/>
+    <motion start="0.168 0.142 0.673 0.673" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12-13a_alt1.jpg</image>
+    <narration start="JHN.12.13"/>
+    <motion start="0.223 0.177 0.772 0.779" end="0.015 0.106 0.743 0.743"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12v13b.jpg</image>
+    <motion start="0.173 0.142 0.733 0.735" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12v14.jpg</image>
+    <narration start="JHN.12.14"/>
+    <motion start="0 0 1 1" end="0.213 0.071 0.644 0.646"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12v15.jpg</image>
+    <narration start="JHN.12.15"/>
+    <motion start="0.114 0.088 0.723 0.726" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12v16.jpg</image>
+    <narration start="JHN.12.16"/>
+    <motion start="0.005 0.097 0.683 0.690" end="0.238 0.124 0.762 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12v17.jpg</image>
+    <narration start="JHN.12.17"/>
+    <motion start="0 0 1 1" end="0.233 0.097 0.683 0.690"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12v18.jpg</image>
+    <narration start="JHN.12.18"/>
+    <motion start="0.188 0.212 0.644 0.646" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12v19a.jpg</image>
+    <narration start="JHN.12.19"/>
+    <motion start="0 0 1 1" end="0.129 0.035 0.752 0.752"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.12-19 Triumphal entry/VB-John 12v19b.jpg</image>
+    <narration end="JHN.12.19"/>
+    <motion start="0 0.230 0.683 0.690" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

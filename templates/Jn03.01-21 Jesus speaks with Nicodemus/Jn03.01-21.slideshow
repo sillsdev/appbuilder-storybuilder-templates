@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus speaks with Nicodemus</title>
+  <title lang="fr">Jésus parle avec Nicodème</title>
+  <title lang="nl">Jezus spreekt met Nicodemus</title>
+  <title lang="pt">Jesus fala com Nicodemos</title>
+  <title lang="es">Jesus habla con Nicodemo</title>
+  <title lang="cust">Jesus speaks with Nicodemus</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn03.1-21-title-eng.odg</image>
+    <image lang="fr">Jn03.1-21-title-fra.odg</image>
+    <image lang="nl">Jn03.1-21-title-ndl.odg</image>
+    <image lang="pt">Jn03.1-21-title-por.odg</image>
+    <image lang="es">Jn03.1-21-title-spa.odg</image>
+    <image lang="cust">Jn03.1-21-title-cust.odg</image>
+    <image>Jn03.1-21-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v1.jpg</image>
+    <narration start="JHN.3.1"/>
+    <motion start="0 0 1 1" end="0.050 0.035 0.901 0.903"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v2.jpg</image>
+    <narration start="JHN.3.2"/>
+    <motion start="0 0 1 1" end="0.059 0.159 0.837 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v3.jpg</image>
+    <narration start="JHN.3.3"/>
+    <motion start="0 0 1 1" end="0.020 0.044 0.866 0.867"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v4a.jpg</image>
+    <motion start="0 0.080 0.782 0.779" end="0.099 0.080 0.856 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v4b.jpg</image>
+    <narration start="JHN.3.4"/>
+    <motion start="0 0 1 1" end="0.129 0.071 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v5.jpg</image>
+    <narration start="JHN.3.5"/>
+    <motion start="0 0 1 1" end="0.030 0.035 0.856 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v6-7.jpg</image>
+    <narration start="JHN.3.6"/>
+    <motion start="0 0.053 0.787 0.788" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v8.jpg</image>
+    <narration start="JHN.3.8"/>
+    <motion start="0 0 1 1" end="0.109 0.062 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v9.jpg</image>
+    <narration start="JHN.3.9"/>
+    <motion start="0 0 1 1" end="0.104 0.035 0.861 0.876"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v10.jpg</image>
+    <narration start="JHN.3.10"/>
+    <motion start="0 0 1 1" end="0.069 0.035 0.861 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v11.jpg</image>
+    <narration start="JHN.3.11"/>
+    <motion start="0 0 1 1" end="0.158 0.080 0.767 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v12.jpg</image>
+    <narration start="JHN.3.12"/>
+    <motion start="0.327 0 0.673 0.673" end="0.356 0.097 0.639 0.637"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v13.jpg</image>
+    <narration start="JHN.3.13"/>
+    <motion start="0.059 0.009 0.762 0.770" end="0.238 0 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v14-15.jpg</image>
+    <narration start="JHN.3.14"/>
+    <motion start="0.238 0 0.762 0.673" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v16.jpg</image>
+    <narration start="JHN.3.16"/>
+    <motion start="0.149 0.044 0.743 0.743" end="0.248 0.044 0.609 0.611"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v17.jpg</image>
+    <narration start="JHN.3.17"/>
+    <motion start="0 0 1 1" end="0.010 0.027 0.837 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v18.jpg</image>
+    <narration start="JHN.3.18"/>
+    <motion start="0.153 0 0.847 0.850" end="0 0 0.847 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v19-20.jpg</image>
+    <narration start="JHN.3.19"/>
+    <motion start="0.183 0.053 0.777 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn03.01-21 Jesus speaks with Nicodemus/VB-John 3v21.jpg</image>
+    <narration start="JHN.3.21" end="JHN.3.21"/>
+    <motion start="0.277 0.062 0.693 0.690" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

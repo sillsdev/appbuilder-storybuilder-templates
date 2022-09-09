@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus heals on the Sabbath</title>
+  <title lang="fr">Jésus guérit le Sabbat</title>
+  <title lang="nl">Jezus geneest op de sabbat</title>
+  <title lang="pt">Jesus cura no Sábado</title>
+  <title lang="es">Jesús cura en Sábado</title>
+  <title lang="cust">Jesus heals on the Sabbath</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn05.01-15-title-eng.odg</image>
+    <image lang="fr">Jn05.01-15-title-fra.odg</image>
+    <image lang="nl">Jn05.01-15-title-ndl.odg</image>
+    <image lang="pt">Jn05.01-15-title-por.odg</image>
+    <image lang="es">Jn05.01-15-title-spa.odg</image>
+    <image lang="cust">Jn05.01-15-title-cust.odg</image>
+    <image>Jn05.01-15-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v1.jpg</image>
+    <narration start="JHN.5.1"/>
+    <motion start="0.158 0.088 0.842 0.823" end="0 0 0.797 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v2.jpg</image>
+    <narration start="JHN.5.2"/>
+    <motion start="0 0.142 0.733 0.735" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v3.jpg</image>
+    <narration start="JHN.5.3"/>
+    <motion start="0.158 0.159 0.842 0.841" end="0.307 0.407 0.480 0.478"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v4.jpg</image>
+    <narration start="JHN.5.4"/>
+    <motion start="0 0 1 1" end="0.173 0.177 0.683 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v5.jpg</image>
+    <narration start="JHN.5.5"/>
+    <motion start="0 0 1 1" end="0.144 0.142 0.757 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v6.jpg</image>
+    <narration start="JHN.5.6"/>
+    <motion start="0.248 0.053 0.752 0.752" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v7.jpg</image>
+    <narration start="JHN.5.7"/>
+    <motion start="0.010 0.009 0.990 0.991" end="0.134 0.124 0.569 0.566"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v8.jpg</image>
+    <narration start="JHN.5.8"/>
+    <motion start="0 0 1 1" end="0.059 0.071 0.856 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v9a.jpg</image>
+    <narration start="JHN.5.9"/>
+    <motion start="0 0 1 1" end="0.124 0.186 0.777 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v9b.jpg</image>
+    <motion start="0.005 0.044 0.777 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v10.jpg</image>
+    <narration start="JHN.5.10"/>
+    <motion start="0 0 1 1" end="0.084 0.071 0.708 0.708"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v11.jpg</image>
+    <narration start="JHN.5.11"/>
+    <motion start="0 0 1 1" end="0.134 0.053 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v12.jpg</image>
+    <narration start="JHN.5.12"/>
+    <motion start="0 0 0.861 0.858" end="0.059 0.062 0.683 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v13.jpg</image>
+    <narration start="JHN.5.13"/>
+    <motion start="0 0 1 1" end="0.084 0.035 0.772 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v14.jpg</image>
+    <narration start="JHN.5.14"/>
+    <motion start="0 0 1 1" end="0.252 0.080 0.748 0.752"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn05.01-15 Jesus heals on the Sabbath/VB-John 5v15.jpg</image>
+    <narration start="JHN.5.15" end="JHN.5.15"/>
+    <motion start="0 0 1 1" end="0.134 0.133 0.752 0.752"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

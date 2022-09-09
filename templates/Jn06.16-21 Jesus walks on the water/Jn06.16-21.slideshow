@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus walks on the water</title>
+  <title lang="fr">Jésus marche sur l'eau</title>
+  <title lang="nl">Jezus loopt op het water</title>
+  <title lang="pt">Jesus anda na água</title>
+  <title lang="es">Jesús camina sobre el agua</title>
+  <title lang="cust">Jesus walks on the water</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn06.16-21-title-eng.odg</image>
+    <image lang="fr">Jn06.16-21-title-fra.odg</image>
+    <image lang="nl">Jn06.16-21-title-ndl.odg</image>
+    <image lang="pt">Jn06.16-21-title-por.odg</image>
+    <image lang="es">Jn06.16-21-title-spa.odg</image>
+    <image lang="cust">Jn06.16-21-title-cust.odg</image>
+    <image>Jn06.16-21-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.16-21 Jesus walks on the water/VB-John 6v16.jpg</image>
+    <narration start="JHN.6.16"/>
+    <motion start="0 0.106 0.752 0.752" end="0.114 0.115 0.733 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.16-21 Jesus walks on the water/VB-John 6v17a.jpg</image>
+    <narration start="JHN.6.17"/>
+    <motion start="0.089 0.168 0.683 0.690" end="0.153 0.142 0.807 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.16-21 Jesus walks on the water/VB-John 6v17b.jpg</image>
+    <motion start="0 0 1 1" end="0.158 0.319 0.683 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.16-21 Jesus walks on the water/VB-John 6v18.jpg</image>
+    <narration start="JHN.6.18"/>
+    <motion start="0 0 1 1" end="0.188 0.177 0.812 0.814"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.16-21 Jesus walks on the water/VB-John 6v19a.jpg</image>
+    <narration start="JHN.6.19"/>
+    <motion start="0 0 1 1" end="0.045 0 0.733 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.16-21 Jesus walks on the water/VB-John 6v19b.jpg</image>
+    <motion start="0 0 1 1" end="0.129 0.124 0.733 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.16-21 Jesus walks on the water/VB-John 6v20.jpg</image>
+    <narration start="JHN.6.20"/>
+    <motion start="0.040 0.080 0.921 0.920" end="0.109 0.124 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.16-21 Jesus walks on the water/VB-John 6v21.jpg</image>
+    <narration start="JHN.6.21" end="JHN.6.21"/>
+    <motion start="0.119 0.106 0.767 0.770" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>
