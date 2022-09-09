@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus casts out demons</title>
+  <title lang="fr">Jésus chasse les démons</title>
+  <title lang="nl">Jezus werpt demonen uit</title>
+  <title lang="pt">Jesus expulsa alguns demônios</title>
+  <title lang="es">Jesús expulsa unos demonios</title>
+  <title lang="cust">Jesus casts out demons</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MRK5-title-eng.odg</image>
+    <image lang="fr">MRK5-title-fra.odg</image>
+    <image lang="nl">MRK5-title-ndl.odg</image>
+    <image lang="pt">MRK5-title-por.odg</image>
+    <image lang="es">MRK5-title-spa.odg</image>
+    <image lang="cust">MRK5-title-cust.odg</image>
+    <image>MRK5-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v01.jpg</image>
+    <narration start="MRK.5.1"/>
+    <motion start="0 0.097 0.791 0.613" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v02.jpg</image>
+    <narration start="MRK.5.2"/>
+    <motion start="0.058 0.105 0.767 0.597" end="0 0.081 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v03-04.jpg</image>
+    <narration start="MRK.5.3"/>
+    <motion start="0 0 1 0.774" end="0 0.379 0.779 0.605"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v05.jpg</image>
+    <narration start="MRK.5.5"/>
+    <motion start="0.071 0.024 0.615 0.468" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v06-07.jpg</image>
+    <narration start="MRK.5.6"/>
+    <motion start="0 0 1 0.774" end="0.163 0.032 0.808 0.629"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v08-10.jpg</image>
+    <narration start="MRK.5.8"/>
+    <motion start="0.105 0.032 0.744 0.581" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v11-12.jpg</image>
+    <narration start="MRK.5.11"/>
+    <motion start="0.012 0.048 0.663 0.508" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v13.jpg</image>
+    <narration start="MRK.5.13"/>
+    <motion start="0.128 0.266 0.750 0.581" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v14-15.jpg</image>
+    <narration start="MRK.5.14"/>
+    <motion start="0 0.097 1 0.774" end="0 0.089 0.762 0.589"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v16.jpg</image>
+    <narration start="MRK.5.16"/>
+    <motion start="0.174 0.065 0.762 0.589" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v17.jpg</image>
+    <narration start="MRK.5.17"/>
+    <motion start="0 0.073 0.750 0.581" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v18.jpg</image>
+    <narration start="MRK.5.18"/>
+    <motion start="0 0 1 0.774" end="0.273 0.266 0.669 0.516"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v19.jpg</image>
+    <narration start="MRK.5.19"/>
+    <motion start="0 0 1 0.766" end="0.135 0.065 0.741 0.573"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk05.01-20 Jesus casts out demons/41_Mk_05_v20.jpg</image>
+    <narration start="MRK.5.20" end="MRK.5.20"/>
+    <motion start="0.023 0.024 0.791 0.613" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

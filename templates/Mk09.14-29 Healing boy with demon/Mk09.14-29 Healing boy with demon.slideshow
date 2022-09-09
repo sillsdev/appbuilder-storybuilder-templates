@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus heals a boy with a demon</title>
+  <title lang="fr">Jésus guérit un garçon avec un mauvais esprit</title>
+  <title lang="nl">Jezus geneest een jongen met een boze geest</title>
+  <title lang="pt">Jesus cura um menino dominado por um espírito mau</title>
+  <title lang="es">esús sana a un muchacho que tenía un espíritu impuro</title>
+  <title lang="cust">Jesus Heals a Boy with an Evil Spirit</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MRK9-title-eng.odg</image>
+    <image lang="fr">MRK9-title-fra.odg</image>
+    <image lang="nl">MRK9-title-ndl.odg</image>
+    <image lang="pt">MRK9-title-por.odg</image>
+    <image lang="es">MRK9-title-spa.odg</image>
+    <image lang="cust">MRK9-title-cust.odg</image>
+    <image>MRK9-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v14.jpg</image>
+    <narration start="MRK.9.14"/>
+    <motion start="0.215 0.048 0.756 0.589" end="0 0.048 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v15-16.jpg</image>
+    <narration start="MRK.9.15"/>
+    <motion start="0 0 1 0.766" end="0.200 0 0.747 0.573"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v17.jpg</image>
+    <narration start="MRK.9.17"/>
+    <motion start="0.118 0.016 0.775 0.589" end="0 0.032 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v18.jpg</image>
+    <narration start="MRK.9.18"/>
+    <motion start="0 0.097 1 0.766" end="0.142 0.129 0.822 0.629"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v19.jpg</image>
+    <narration start="MRK.9.19"/>
+    <motion start="0.140 0.073 0.715 0.556" end="0 0.073 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v20a.jpg</image>
+    <narration start="MRK.9.20"/>
+    <motion start="0 0 1 0.758" end="0.095 0 0.768 0.581"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v20b.jpg</image>
+    <motion start="0.083 0 0.793 0.605" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v21-22.jpg</image>
+    <narration start="MRK.9.21"/>
+    <motion start="0 0 1 0.774" end="0.151 0.185 0.733 0.565"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v23-25.jpg</image>
+    <narration start="MRK.9.23"/>
+    <motion start="0.012 0.153 0.738 0.573" end="0 0.048 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v26a.jpg</image>
+    <narration start="MRK.9.26"/>
+    <motion start="0 0.234 1 0.766" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v26b.jpg</image>
+    <motion start="0 0 0.835 0.637" end="0 0.105 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v27.jpg</image>
+    <narration start="MRK.9.27"/>
+    <motion start="0 0 1 0.774" end="0.099 0.048 0.680 0.524"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk09.14-29 Healing boy with demon/41_Mk_09_v28-29.jpg</image>
+    <narration start="MRK.9.28" end="MRK.9.29"/>
+    <motion start="0.053 0.153 0.771 0.589" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

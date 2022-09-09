@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The Transfiguration of Jesus</title>
+  <title lang="fr">La Transfiguration de Jésus</title>
+  <title lang="nl">Transfiguratie van Jezus</title>
+  <title lang="pt">A transfiguração de Jesus</title>
+  <title lang="es">La transfiguración de Jesús</title>
+  <title lang="cust">The Transfiguration of Jesus</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MAT17-title-eng.odg</image>
+    <image lang="fr">MAT17-title-fra.odg</image>
+    <image lang="nl">MAT17-title-ndl.odg</image>
+    <image lang="pt">MAT17-title-por.odg</image>
+    <image lang="es">MAT17-title-spa.odg</image>
+    <image lang="cust">MAT17-title-cust.odg</image>
+    <image>MAT17-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v01.jpg</image>
+    <narration start="MAT.17.1"/>
+    <motion start="0 0.056 0.750 0.581" end="0 0.113 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v02.jpg</image>
+    <narration start="MAT.17.2"/>
+    <motion start="0.047 0.065 0.733 0.565" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v03.jpg</image>
+    <narration start="MAT.17.3"/>
+    <motion start="0.134 0.145 0.698 0.532" end="0 0.097 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v04.jpg</image>
+    <narration start="MAT.17.4"/>
+    <motion start="0.209 0.040 0.587 0.452" end="0 0.024 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v05.jpg</image>
+    <narration start="MAT.17.5"/>
+    <motion start="0 0.065 1 0.774" end="0.209 0 0.703 0.532"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v06-08.jpg</image>
+    <narration start="MAT.17.6"/>
+    <motion start="0.198 0.105 0.762 0.589" end="0 0.097 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v09.jpg</image>
+    <narration start="MAT.17.9"/>
+    <motion start="0 0 1 0.774" end="0.157 0.065 0.733 0.565"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v10.jpg</image>
+    <narration start="MAT.17.10"/>
+    <motion start="0.250 0.056 0.703 0.548" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v11.jpg</image>
+    <narration start="MAT.17.11"/>
+    <motion start="0 0 1 0.774" end="0.192 0.097 0.738 0.565"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v12.jpg</image>
+    <narration start="MAT.17.12"/>
+    <motion start="0.157 0.218 0.808 0.629" end="0 0.194 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt17.01-13 Transfiguration/Mt_17_v13.jpg</image>
+    <narration start="MAT.17.13" end="MAT.17.13"/>
+    <motion start="0 0 1 0.774" end="0.250 0.065 0.715 0.548"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

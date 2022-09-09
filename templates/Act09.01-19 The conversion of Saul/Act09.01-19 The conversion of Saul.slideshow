@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The conversion of Saul</title>
+  <title lang="fr">La conversion de Saul</title>
+  <title lang="nl">De bekering van Saul</title>
+  <title lang="pt">Conversão de Saulo</title>
+  <title lang="es">La conversión de Saulo</title>
+  <title lang="cust">The conversion of Saul</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">ACT9-title-eng.odg</image>
+    <image lang="fr">ACT9-title-fra.odg</image>
+    <image lang="nl">ACT9-title-ndl.odg</image>
+    <image lang="pt">ACT9-title-por.odg</image>
+    <image lang="es">ACT9-title-spa.odg</image>
+    <image lang="cust">ACT9-title-cust.odg</image>
+    <image>Act9-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act09.01-19 The conversion of Saul/44_Ac_09_01-02.jpg</image>
+    <narration start="ACT.9.1"/>
+    <motion start="0 0.065 1 0.766" end="0.300 0.024 0.694 0.532"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act09.01-19 The conversion of Saul/44_Ac_09_03-05.jpg</image>
+    <narration start="ACT.9.3"/>
+    <motion start="0.160 0.056 0.710 0.540" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act09.01-19 The conversion of Saul/44_Ac_09_06-07.jpg</image>
+    <narration start="ACT.9.6"/>
+    <motion start="0 0 1 0.766" end="0.142 0.008 0.704 0.540"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act09.01-19 The conversion of Saul/44_Ac_09_08-09.jpg</image>
+    <narration start="ACT.9.8"/>
+    <motion start="0 0 0.661 0.500" end="0 0 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act09.01-19 The conversion of Saul/44_Ac_09_10-12.jpg</image>
+    <narration start="ACT.9.10"/>
+    <motion start="0 0 1 0.774" end="0.198 0.032 0.709 0.556"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act09.01-19 The conversion of Saul/44_Ac_09_13-14.jpg</image>
+    <narration start="ACT.9.13"/>
+    <motion start="0.244 0.081 0.756 0.581" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act09.01-19 The conversion of Saul/44_Ac_09_15-16.jpg</image>
+    <narration start="ACT.9.15"/>
+    <motion start="0 0 1 0.774" end="0.058 0.113 0.802 0.621"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act09.01-19 The conversion of Saul/44_Ac_09_17.jpg</image>
+    <narration start="ACT.9.17"/>
+    <motion start="0 0 1 0.774" end="0.134 0 0.756 0.597"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act09.01-19 The conversion of Saul/44_Ac_09_18-19.jpg</image>
+    <narration start="ACT.9.18" end="ACT.9.19"/>
+    <motion start="0.041 0.274 0.634 0.484" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

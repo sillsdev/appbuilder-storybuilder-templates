@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The Good Samaritan</title>
+  <title lang="fr">Le Bon Samaritain</title>
+  <title lang="nl">De barmhartige Samaritaan</title>
+  <title lang="pt">O Bom Samaritano</title>
+  <title lang="es">El buen samaritano</title>
+  <title lang="cust">The Good Samaritan</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">LUK10-title-eng.odg</image>
+    <image lang="fr">LUK10-title-fra.odg</image>
+    <image lang="nl">LUK10-title-ndl.odg</image>
+    <image lang="pt">LUK10-title-por.odg</image>
+    <image lang="es">LUK10-title-spa.odg</image>
+    <image lang="cust">LUK10-title-cust.odg</image>
+    <image>LUK10-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v25.jpg</image>
+    <narration start="LUK.10.25"/>
+    <motion start="0.179 0 0.649 0.492" end="0 0 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v26.jpg</image>
+    <narration start="LUK.10.26"/>
+    <motion start="0 0 1 0.766" end="0 0.234 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v27.jpg</image>
+    <narration start="LUK.10.27"/>
+    <motion start="0.105 0 0.773 0.597" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v28-29.jpg</image>
+    <narration start="LUK.10.28"/>
+    <motion start="0 0 1 0.774" end="0.187 0 0.678 0.524"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v30a.jpg</image>
+    <narration start="LUK.10.30"/>
+    <motion start="0 0.105 0.781 0.597" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v30b.jpg</image>
+    <motion start="0 0 1 0.774" end="0.186 0.298 0.698 0.540"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v31.jpg</image>
+    <narration start="LUK.10.31"/>
+    <motion start="0.101 0.097 0.763 0.581" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v32.jpg</image>
+    <narration start="LUK.10.32"/>
+    <motion start="0 0 1 0.766" end="0.200 0.435 0.688 0.524"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v33-34.jpg</image>
+    <narration start="LUK.10.33"/>
+    <motion start="0.205 0.161 0.729 0.548" end="0 0.177 1 0.750"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v35a.jpg</image>
+    <narration start="LUK.10.35"/>
+    <motion start="0 0.129 1 0.766" end="0.183 0.153 0.586 0.444"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v35b.jpg</image>
+    <motion start="0.254 0.137 0.651 0.492" end="0 0.113 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk10.25-37 Good Samaritan/Lk_10_v36-37.jpg</image>
+    <narration start="LUK.10.36" end="LUK.10.37"/>
+    <motion start="0 0.065 1 0.766" end="0.188 0.048 0.735 0.565"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

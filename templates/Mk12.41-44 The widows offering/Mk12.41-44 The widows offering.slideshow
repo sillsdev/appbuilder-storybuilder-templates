@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The widow’s offering</title>
+  <title lang="fr">L’offre de la veuve</title>
+  <title lang="nl">Het aanbod van de weduwe</title>
+  <title lang="pt">A oferta da viúva</title>
+  <title lang="es">La ofrenda de la viuda</title>
+  <title lang="cust">The widow’s offering</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MRK12-title-eng.odg</image>
+    <image lang="fr">MRK12-title-fra.odg</image>
+    <image lang="nl">MRK12-title-ndl.odg</image>
+    <image lang="pt">MRK12-title-por.odg</image>
+    <image lang="es">MRK12-title-spa.odg</image>
+    <image lang="cust">MRK12-title-cust.odg</image>
+    <image>MRK12-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk12.41-44 The widows offering/41_Mk_12_41a.jpg</image>
+    <narration start="MRK.12.41"/>
+    <motion start="0 0 1 0.774" end="0 0.202 0.872 0.677"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk12.41-44 The widows offering/41_Mk_12_41b.jpg</image>
+    <motion start="0 0 1 0.758" end="0 0.177 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk12.41-44 The widows offering/41_Mk_12_42.jpg</image>
+    <narration start="MRK.12.42"/>
+    <motion start="0 0 1 0.774" end="0 0.185 0.948 0.734"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk12.41-44 The widows offering/41_Mk_12_43.jpg</image>
+    <narration start="MRK.12.43"/>
+    <motion start="0 0 1 0.766" end="0.200 0.081 0.706 0.540"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk12.41-44 The widows offering/41_Mk_12_44a.jpg</image>
+    <narration start="MRK.12.44"/>
+    <motion start="0 0.153 1 0.758" end="0.054 0.202 0.869 0.661"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk12.41-44 The widows offering/41_Mk_12_44b.jpg</image>
+    <narration end="MRK.12.44"/>
+    <motion start="0.006 0.185 0.727 0.565" end="0 0.137 1 0.774"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

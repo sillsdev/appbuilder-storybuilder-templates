@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The Prodigal Son</title>
+  <title lang="fr">Le Fils Prodigue</title>
+  <title lang="nl">De verloren zoon</title>
+  <title lang="pt">O Filho Pródigo</title>
+  <title lang="es">El Hijo Perdido</title>
+  <title lang="cust">The Prodigal Son</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">LUK15-title-eng.odg</image>
+    <image lang="fr">LUK15-title-fra.odg</image>
+    <image lang="nl">LUK15-title-ndl.odg</image>
+    <image lang="pt">LUK15-title-por.odg</image>
+    <image lang="es">LUK15-title-spa.odg</image>
+    <image lang="cust">LUK15-title-cust.odg</image>
+    <image>LUK15-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v11-12.jpg</image>
+    <narration start="LUK.15.11"/>
+    <motion start="0 0 1 0.774" end="0.145 0.073 0.738 0.573"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v13.jpg</image>
+    <narration start="LUK.15.13"/>
+    <motion start="0.047 0.065 0.775 0.589" end="0 0.081 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v14.jpg</image>
+    <narration start="LUK.15.14"/>
+    <motion start="0.314 0.121 0.686 0.532" end="0 0.081 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v15.jpg</image>
+    <narration start="LUK.15.15"/>
+    <motion start="0 0.040 1 0.742" end="0.194 0.081 0.661 0.484"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v16.jpg</image>
+    <narration start="LUK.15.16"/>
+    <motion start="0 0 0.669 0.516" end="0 0.073 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v17-19.jpg</image>
+    <narration start="LUK.15.17"/>
+    <motion start="0 0.081 1 0.774" end="0.174 0.266 0.651 0.508"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v20.jpg</image>
+    <narration start="LUK.15.20"/>
+    <motion start="0 0 0.567 0.435" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v21.jpg</image>
+    <narration start="LUK.15.21"/>
+    <motion start="0 0 1 0.774" end="0.105 0.032 0.779 0.605"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v22-24.jpg</image>
+    <narration start="LUK.15.22"/>
+    <motion start="0.203 0 0.797 0.613" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v25.jpg</image>
+    <narration start="LUK.15.25"/>
+    <motion start="0 0 1 0.766" end="0 0.105 0.747 0.556"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v26-27.jpg</image>
+    <narration start="LUK.15.26"/>
+    <motion start="0.233 0.137 0.762 0.581" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v28.jpg</image>
+    <narration start="LUK.15.28"/>
+    <motion start="0 0 1 0.774" end="0.145 0.073 0.686 0.540"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v29-30.jpg</image>
+    <narration start="LUK.15.29"/>
+    <motion start="0 0.169 0.728 0.556" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk15.11-32 The Prodigal Son/Luke-c15-v31-32.jpg</image>
+    <narration start="LUK.15.31" end="LUK.15.32"/>
+    <motion start="0 0 1 0.774" end="0.180 0.081 0.570 0.444"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

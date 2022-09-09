@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus and Zacchaeus</title>
+  <title lang="fr">Jésus et Zachée</title>
+  <title lang="nl">Jezus ontmoet Zacheüs</title>
+  <title lang="pt">Jesus e Zaqueu</title>
+  <title lang="es">Jesús y Zaqueo</title>
+  <title lang="cust">Jesus and Zaccheus</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">LUK19a-title-eng.odg</image>
+    <image lang="fr">LUK19a-title-fra.odg</image>
+    <image lang="nl">LUK19a-title-ndl.odg</image>
+    <image lang="pt">LUK19a-title-por.odg</image>
+    <image lang="es">LUK19a-title-spa.odg</image>
+    <image lang="cust">LUK19a-title-cust.odg</image>
+    <image>LUK19a-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk19.01-10 Zacchaeus/Lk_19_v01-03.jpg</image>
+    <narration start="LUK.19.1"/>
+    <motion start="0 0 1 0.774" end="0 0.210 0.727 0.565"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk19.01-10 Zacchaeus/Lk_19_v04.jpg</image>
+    <narration start="LUK.19.4"/>
+    <motion start="0.343 0.153 0.592 0.444" end="0 0.194 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk19.01-10 Zacchaeus/Lk_19_v05.jpg</image>
+    <narration start="LUK.19.5"/>
+    <motion start="0.250 0.032 0.744 0.581" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk19.01-10 Zacchaeus/Lk_19_v06-07.jpg</image>
+    <narration start="LUK.19.6"/>
+    <motion start="0 0.161 1 0.774" end="0.076 0.468 0.587 0.452"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk19.01-10 Zacchaeus/Lk_19_v08.jpg</image>
+    <narration start="LUK.19.8"/>
+    <motion start="0.291 0 0.680 0.516" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk19.01-10 Zacchaeus/Lk_19_v09-10.jpg</image>
+    <narration start="LUK.19.9" end="LUK.19.10"/>
+    <motion start="0 0 1 0.774" end="0.233 0.056 0.698 0.548"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

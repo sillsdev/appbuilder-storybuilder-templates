@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus calms the storm</title>
+  <title lang="fr">Jésus calme la tempête</title>
+  <title lang="nl">Jezus kalmeert de storm</title>
+  <title lang="pt">Jesus acalma a tempestade</title>
+  <title lang="es">Jesús calma la tormenta</title>
+  <title lang="cust">Jesus calms the storm</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MRK4-title-eng.odg</image>
+    <image lang="fr">MRK4-title-fra.odg</image>
+    <image lang="nl">MRK4-title-ndl.odg</image>
+    <image lang="pt">MRK4-title-por.odg</image>
+    <image lang="es">MRK4-title-spa.odg</image>
+    <image lang="cust">MRK4-title-cust.odg</image>
+    <image>MRK4-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk04.35-41 Jesus calms the storm/41_Mk_04_35-36.jpg</image>
+    <narration start="MRK.4.35"/>
+    <motion start="0 0 1 0.774" end="0.064 0.210 0.587 0.452"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk04.35-41 Jesus calms the storm/41_Mk_04_37.jpg</image>
+    <narration start="MRK.4.37"/>
+    <motion start="0.093 0.145 0.715 0.556" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk04.35-41 Jesus calms the storm/41_Mk_04_38.jpg</image>
+    <narration start="MRK.4.38"/>
+    <motion start="0 0 1 0.774" end="0.157 0.032 0.744 0.581"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk04.35-41 Jesus calms the storm/41_Mk_04_39.jpg</image>
+    <narration start="MRK.4.39"/>
+    <motion start="0.076 0.048 0.686 0.532" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk04.35-41 Jesus calms the storm/41_Mk_04_40.jpg</image>
+    <narration start="MRK.4.40"/>
+    <motion start="0.267 0.298 0.529 0.411" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk04.35-41 Jesus calms the storm/41_Mk_04_41.jpg</image>
+    <narration start="MRK.4.41" end="MRK.4.41"/>
+    <motion start="0 0.226 1 0.774" end="0.285 0.242 0.715 0.548"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

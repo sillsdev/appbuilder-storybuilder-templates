@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus walks on water</title>
+  <title lang="fr">Jésus marche sur l'eau</title>
+  <title lang="nl">Jezus loopt op water</title>
+  <title lang="pt">Jesus anda sobre as águas</title>
+  <title lang="es">Jesús camina sobre el agua</title>
+  <title lang="cust">Jesus walks on water</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MAT14-title-eng.odg</image>
+    <image lang="fr">MAT14-title-fra.odg</image>
+    <image lang="nl">MAT14-title-ndl.odg</image>
+    <image lang="pt">MAT14-title-por.odg</image>
+    <image lang="es">MAT14-title-spa.odg</image>
+    <image lang="cust">MAT14-title-cust.odg</image>
+    <image>MAT14-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v22.jpg</image>
+    <narration start="MAT.14.22"/>
+    <motion start="0 0 1 0.774" end="0.140 0.073 0.767 0.605"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v23.jpg</image>
+    <narration start="MAT.14.23"/>
+    <motion start="0.140 0.089 0.628 0.492" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v24.jpg</image>
+    <narration start="MAT.14.24"/>
+    <motion start="0 0 1 0.774" end="0.186 0.185 0.814 0.637"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v25.jpg</image>
+    <narration start="MAT.14.25"/>
+    <motion start="0.093 0.032 0.767 0.597" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v26.jpg</image>
+    <narration start="MAT.14.26"/>
+    <motion start="0 0 1 0.774" end="0.058 0.032 0.837 0.653"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v27.jpg</image>
+    <narration start="MAT.14.27"/>
+    <motion start="0.343 0.008 0.657 0.508" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v28.jpg</image>
+    <narration start="MAT.14.28"/>
+    <motion start="0 0 1 0.774" end="0.029 0.008 0.767 0.597"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v29.jpg</image>
+    <narration start="MAT.14.29"/>
+    <motion start="0.035 0.016 0.674 0.524" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v30.jpg</image>
+    <narration start="MAT.14.30"/>
+    <motion start="0 0 0.750 0.581" end="0 0.073 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v31.jpg</image>
+    <narration start="MAT.14.31"/>
+    <motion start="0 0.048 1 0.774" end="0.041 0.032 0.814 0.629"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v32-33.jpg</image>
+    <narration start="MAT.14.32"/>
+    <motion start="0 0 1 0.774" end="0 0 0.773 0.597"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v34.jpg</image>
+    <narration start="MAT.14.34"/>
+    <motion start="0 0 1 0.782" end="0.197 0.081 0.803 0.621"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mt14.22-36 Jesus walks on water/40_Mt_14_v35-36.jpg</image>
+    <narration start="MAT.14.35" end="MAT.14.36"/>
+    <motion start="0.266 0.081 0.734 0.573" end="0 0 1 0.782"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

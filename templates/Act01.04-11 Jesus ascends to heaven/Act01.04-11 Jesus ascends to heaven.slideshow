@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus ascends to heaven</title>
+  <title lang="fr">Jésus monte au ciel</title>
+  <title lang="nl">Jezus stijgt naar de hemel</title>
+  <title lang="pt">Jesus foi levado aos céus</title>
+  <title lang="es">Jesús sube al cielo</title>
+  <title lang="cust">Jesus ascends to heaven</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">ACT1-title-eng.odg</image>
+    <image lang="fr">ACT1-title-fra.odg</image>
+    <image lang="nl">ACT1-title-ndl.odg</image>
+    <image lang="pt">ACT1-title-por.odg</image>
+    <image lang="es">ACT1-title-spa.odg</image>
+    <image lang="cust">ACT1-title-cust.odg</image>
+    <image>ACT1-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act01.04-11 Jesus ascends to heaven/44_Ac_01_v04-05.jpg</image>
+    <narration start="ACT.1.4"/>
+    <motion start="0.262 0.145 0.523 0.411" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act01.04-11 Jesus ascends to heaven/44_Ac_01_v06-07.jpg</image>
+    <narration start="ACT.1.6"/>
+    <motion start="0 0 1 0.774" end="0.192 0.081 0.645 0.500"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act01.04-11 Jesus ascends to heaven/44_Ac_01_v08.jpg</image>
+    <narration start="ACT.1.8"/>
+    <motion start="0 0 0.765 0.573" end="0 0 1 0.750"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act01.04-11 Jesus ascends to heaven/44_Ac_01_v09.jpg</image>
+    <narration start="ACT.1.9"/>
+    <motion start="0 0.065 1 0.782" end="0.420 0.065 0.575 0.452"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act01.04-11 Jesus ascends to heaven/44_Ac_01_v10-11.jpg</image>
+    <narration start="ACT.1.10" end="ACT.1.11"/>
+    <motion start="0.320 0.129 0.680 0.516" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Birth of Jesus foretold</title>
+  <title lang="fr">Naissance de Jésus annoncée</title>
+  <title lang="nl">De geboorte van Jezus voorzegde</title>
+  <title lang="pt">Um anjo anuncia o nascimento de Jesus</title>
+  <title lang="es">Un ángel anuncia el nacimiento de Jesús</title>
+  <title lang="cust">Birth of Jesus foretold</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">LUK1-title-eng.odg</image>
+    <image lang="fr">LUK1-title-fra.odg</image>
+    <image lang="nl">LUK1-title-ndl.odg</image>
+    <image lang="pt">LUK1-title-por.odg</image>
+    <image lang="es">LUK1-title-spa.odg</image>
+    <image lang="cust">LUK1-title-cust.odg</image>
+    <image>LUK1-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk01.26-38 Birth of Jesus foretold/Lk_01_v26-27.jpg</image>
+    <narration start="LUK.1.26"/>
+    <motion start="0.138 0.040 0.707 0.532" end="0 0 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk01.26-38 Birth of Jesus foretold/Lk_01_v28-29.jpg</image>
+    <narration start="LUK.1.28"/>
+    <motion start="0 0 1 0.774" end="0.006 0.258 0.628 0.484"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk01.26-38 Birth of Jesus foretold/Lk_01_v30-32.jpg</image>
+    <narration start="LUK.1.30"/>
+    <motion start="0.128 0.234 0.703 0.548" end="0 0.105 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk01.26-38 Birth of Jesus foretold/Lk_01_v33.jpg</image>
+    <narration start="LUK.1.33"/>
+    <motion start="0 0 1 0.774" end="0.099 0.008 0.698 0.540"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk01.26-38 Birth of Jesus foretold/Lk_01_v34.jpg</image>
+    <narration start="LUK.1.34"/>
+    <motion start="0.169 0.097 0.669 0.516" end="0 0.105 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk01.26-38 Birth of Jesus foretold/Lk_01_v35-37.jpg</image>
+    <narration start="LUK.1.35"/>
+    <motion start="0 0 1 0.774" end="0.145 0.008 0.669 0.516"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk01.26-38 Birth of Jesus foretold/Lk_01_v38.jpg</image>
+    <narration start="LUK.1.38" end="LUK.1.38"/>
+    <motion start="0.035 0.089 0.674 0.524" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

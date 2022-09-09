@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The Conversion of the Jailer</title>
+  <title lang="fr">La conversion du geôlier</title>
+  <title lang="nl">De bekering van de gevangenbewaarder</title>
+  <title lang="pt">Conversão do carcereiro</title>
+  <title lang="es">Conversión del carcelero</title>
+  <title lang="cust">The Conversion of the Jailer</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">ACT16-title-eng.odg</image>
+    <image lang="fr">ACT16-title-fra.odg</image>
+    <image lang="nl">ACT16-title-ndl.odg</image>
+    <image lang="pt">ACT16-title-por.odg</image>
+    <image lang="es">ACT16-title-spa.odg</image>
+    <image lang="cust">ACT16-title-cust.odg</image>
+    <image>Act16-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v16.jpg</image>
+    <narration start="ACT.16.16"/>
+    <motion start="0.029 0.056 0.624 0.476" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v18b.jpg</image>
+    <narration start="ACT.16.17"/>
+    <motion start="0.143 0 0.714 0.548" end="0 0.040 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v17-18a.jpg</image>
+    <motion start="0 0 1 0.742" end="0.218 0.016 0.642 0.484"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v19-22a.jpg</image>
+    <narration start="ACT.16.19"/>
+    <motion start="0 0 1 0.750" end="0.145 0.274 0.795 0.597"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v22b-24a.jpg</image>
+    <motion start="0.171 0.089 0.776 0.589" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v24b-25.jpg</image>
+    <motion start="0 0.105 1 0.750" end="0.241 0.048 0.669 0.492"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v26.jpg</image>
+    <narration start="ACT.16.26"/>
+    <motion start="0 0 1 0.766" end="0 0.226 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v27-29.jpg</image>
+    <narration start="ACT.16.27"/>
+    <motion start="0.281 0.048 0.689 0.524" end="0 0.089 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v30-33a.jpg</image>
+    <narration start="ACT.16.30"/>
+    <motion start="0 0 1 0.758" end="0.238 0.048 0.714 0.540"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v33b-34.jpg</image>
+    <motion start="0.250 0.113 0.709 0.548" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v35-39.jpg</image>
+    <motion start="0 0.097 0.749 0.565" end="0 0 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Act16.16-40 Conversion of the jailer/44_Ac_16_v40.jpg</image>
+    <narration start="ACT.16.40" end="ACT.16.40"/>
+    <motion start="0.212 0 0.733 0.548" end="0 0.056 1 0.742"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

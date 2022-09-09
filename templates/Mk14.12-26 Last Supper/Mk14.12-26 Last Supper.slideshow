@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The Last Supper</title>
+  <title lang="fr">Le Dernier Souper</title>
+  <title lang="nl">Het laatste Avondmaal</title>
+  <title lang="pt">A Última Ceia</title>
+  <title lang="es">La última cena</title>
+  <title lang="cust">The Last Supper</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MRK14a-title-eng.odg</image>
+    <image lang="fr">MRK14a-title-fra.odg</image>
+    <image lang="nl">MRK14a-title-ndl.odg</image>
+    <image lang="pt">MRK14a-title-por.odg</image>
+    <image lang="es">MRK14a-title-spa.odg</image>
+    <image lang="cust">MRK14a-title-cust.odg</image>
+    <image>MRK14a-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/01-Mk_14_v12.jpg</image>
+    <narration start="MRK.14.12"/>
+    <motion start="0 0 1.018 0.766" end="0.144 0.032 0.737 0.556"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/02-Mk_14_v13a.jpg</image>
+    <narration start="MRK.14.13"/>
+    <motion start="0 0.452 0.372 0.290" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/03-Mk_14_v13b-14.jpg</image>
+    <narration start="MRK.14.14"/>
+    <motion start="0.244 0.282 0.738 0.565" end="0 0.024 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/04-Mk_14_v15.jpg</image>
+    <narration start="MRK.14.15"/>
+    <motion start="0.128 0.129 0.826 0.637" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/05-Mk_14_v16a.jpg</image>
+    <narration start="MRK.14.16"/>
+    <motion start="0 0.048 0.751 0.573" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/06-Mk_14_v16b.jpg</image>
+    <motion start="0.023 0.073 0.750 0.581" end="0 0.032 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/08-Mk_14_v17-18.jpg</image>
+    <narration start="MRK.14.17"/>
+    <motion start="0.124 0.040 0.692 0.532" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/09-Mk_14_v19-21.jpg</image>
+    <narration start="MRK.14.19"/>
+    <motion start="0 0.218 1 0.766" end="0.029 0.153 0.829 0.637"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/17-Mk_14_v22.jpg</image>
+    <narration start="MRK.14.22"/>
+    <motion start="0.200 0.081 0.641 0.492" end="0 0.048 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/18-Mk_14_v23.jpg</image>
+    <narration start="MRK.14.23"/>
+    <motion start="0.253 0.129 0.671 0.516" end="0 0.040 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/19-Mk_14_v24.jpg</image>
+    <narration start="MRK.14.24"/>
+    <motion start="0.247 0.089 0.706 0.540" end="0 0.177 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/20-Mk_14_v25.jpg</image>
+    <narration start="MRK.14.25"/>
+    <motion start="0 0 1 0.766" end="0.094 0 0.735 0.565"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.12-26 Last Supper/21-Mk_14_v26.jpg</image>
+    <narration start="MRK.14.26" end="MRK.14.26"/>
+    <motion start="0.378 0.089 0.622 0.484" end="0 0.056 1 0.774"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

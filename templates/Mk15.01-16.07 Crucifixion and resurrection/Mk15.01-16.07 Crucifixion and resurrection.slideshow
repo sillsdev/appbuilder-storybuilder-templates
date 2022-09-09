@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The Crucifixion and Resurrection of Jesus</title>
+  <title lang="fr">La crucifixion et la résurrection de Jésus</title>
+  <title lang="nl">De kruisiging en opstanding van Jezus</title>
+  <title lang="pt">Crucificação e Ressurreição de Jesus</title>
+  <title lang="es">La crucifixión y resurrección de Jesús</title>
+  <title lang="cust">The Crucifixion and Resurrection of Jesus</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MRK15-16-title-eng.odg</image>
+    <image lang="fr">MRK15-16-title-fra.odg</image>
+    <image lang="nl">MRK15-16-title-ndl.odg</image>
+    <image lang="pt">MRK15-16-title-por.odg</image>
+    <image lang="es">MRK15-16-title-spa.odg</image>
+    <image lang="cust">MRK15-16-title-cust.odg</image>
+    <image>MRK15-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v01a_RG.jpg</image>
+    <narration start="MRK.15.1"/>
+    <motion start="0 0 1 0.766" end="0.276 0 0.724 0.556"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v01b_RG.jpg</image>
+    <motion start="0.235 0.024 0.765 0.581" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v02_RG.jpg</image>
+    <narration start="MRK.15.2"/>
+    <motion start="0.154 0.032 0.763 0.581" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v03_RG.jpg</image>
+    <narration start="MRK.15.3"/>
+    <motion start="0 0 1 0.758" end="0.071 0.056 0.762 0.581"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v04-05_RG.jpg</image>
+    <narration start="MRK.15.4"/>
+    <motion start="0.029 0.089 0.785 0.613" end="0 0.065 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v06-10_RG.jpg</image>
+    <narration start="MRK.15.6"/>
+    <motion start="0 0 1 0.766" end="0.053 0.089 0.759 0.573"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v11-13_RG.jpg</image>
+    <narration start="MRK.15.11"/>
+    <motion start="0.193 0.056 0.778 0.605" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v14-15a_RG.jpg</image>
+    <narration start="MRK.15.14"/>
+    <motion start="0 0 1 0.766" end="0.124 0.024 0.793 0.597"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v15b_RG.jpg</image>
+    <motion start="0.112 0.395 0.793 0.605" end="0 0.040 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v16_RG.jpg</image>
+    <narration start="MRK.15.16"/>
+    <motion start="0 0.040 1 0.774" end="0.355 0.121 0.605 0.468"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v17-19_RG.jpg</image>
+    <narration start="MRK.15.17"/>
+    <motion start="0.285 0.113 0.680 0.516" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v20_RG.jpg</image>
+    <narration start="MRK.15.20"/>
+    <motion start="0 0 1 0.774" end="0.244 0 0.674 0.524"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v21-23_RG.jpg</image>
+    <narration start="MRK.15.21"/>
+    <motion start="0.204 0.089 0.754 0.565" end="0 0 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v24a_RG.jpg</image>
+    <narration start="MRK.15.24"/>
+    <motion start="0 0 0.759 0.581" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v24b_RG.jpg</image>
+    <motion start="0 0 1 0.758" end="0.108 0.371 0.832 0.629"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v25_RG.jpg</image>
+    <narration start="MRK.15.25"/>
+    <motion start="0 0 1 0.710" end="0.140 0.113 0.854 0.597"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v26_RG.jpg</image>
+    <narration start="MRK.15.26"/>
+    <motion start="0 0.202 0.784 0.613" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v27-28_RG.jpg</image>
+    <narration start="MRK.15.27"/>
+    <motion start="0 0 1 0.766" end="0 0.137 0.865 0.653"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v29-30_RG.jpg</image>
+    <narration start="MRK.15.29"/>
+    <motion start="0 0 1 0.750" end="0.066 0.008 0.590 0.444"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v31-32a_RG.jpg</image>
+    <narration start="MRK.15.31"/>
+    <motion start="0.084 0.121 0.749 0.565" end="0 0 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v32b_RG.jpg</image>
+    <narration start="MRK.15.32"/>
+    <motion start="0 0 1 0.766" end="0 0.371 0.771 0.589"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v33_RG.jpg</image>
+    <narration start="MRK.15.33"/>
+    <motion start="0 0 1 0.758" end="0.095 0.048 0.643 0.492"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v34-37_RG.jpg</image>
+    <narration start="MRK.15.34"/>
+    <motion start="0 0 1 0.774" end="0 0.105 0.640 0.484"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v38-39_RG.jpg</image>
+    <narration start="MRK.15.38"/>
+    <motion start="0.318 0 0.682 0.532" end="0 0 1 0.782"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v40-41_RG.jpg</image>
+    <narration start="MRK.15.40"/>
+    <motion start="0 0.032 1 0.758" end="0.232 0.161 0.655 0.484"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v42-45_RG.jpg</image>
+    <narration start="MRK.15.42"/>
+    <motion start="0.060 0.040 0.844 0.637" end="0 0.024 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v46a_RG.jpg</image>
+    <narration start="MRK.15.46"/>
+    <motion start="0 0 1 0.758" end="0 0.242 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_15v46b_RG.jpg</image>
+    <narration end="MRK.15.47"/>
+    <motion start="0.101 0 0.798 0.613" end="0 0 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_16v01-03_RG.jpg</image>
+    <narration start="MRK.16.1"/>
+    <motion start="0 0.056 1 0.774" end="0.199 0.137 0.801 0.613"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_16v04_RG.jpg</image>
+    <narration start="MRK.16.4"/>
+    <motion start="0 0 0.855 0.661" end="0 0.073 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_16v05_RG.jpg</image>
+    <narration start="MRK.16.5"/>
+    <motion start="0 0 1 0.774" end="0.052 0.113 0.919 0.710"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_16v06_RG.jpg</image>
+    <narration start="MRK.16.6"/>
+    <motion start="0.161 0.121 0.690 0.524" end="0 0 1 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk15.01-16.07 Crucifixion and resurrection/41_Mk_16v07_RG.jpg</image>
+    <narration start="MRK.16.7" end="MRK.16.7"/>
+    <motion start="0.131 0.306 0.810 0.613" end="0 0.185 1 0.758"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

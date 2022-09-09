@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus heals a paralytic</title>
+  <title lang="fr">Jésus guérit un paralytique</title>
+  <title lang="nl">Jezus geneest een verlamde</title>
+  <title lang="pt">Jesus cura um paralítico</title>
+  <title lang="es">Jesús sana a un paralítico</title>
+  <title lang="cust">Jesus heals a paralytic</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">LUK5-title-eng.odg</image>
+    <image lang="fr">LUK5-title-fra.odg</image>
+    <image lang="nl">LUK5-title-ndl.odg</image>
+    <image lang="pt">LUK5-title-por.odg</image>
+    <image lang="es">LUK5-title-spa.odg</image>
+    <image lang="cust">LUK5-title-cust.odg</image>
+    <image>LUK5-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-17.jpg</image>
+    <narration start="LUK.5.17"/>
+    <motion start="0 0 1 0.774" end="0.273 0.048 0.715 0.548"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-18.jpg</image>
+    <narration start="LUK.5.18"/>
+    <motion start="0 0.161 0.645 0.484" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-19a.jpg</image>
+    <narration start="LUK.5.19"/>
+    <motion start="0 0.403 0.767 0.597" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-19b.jpg</image>
+    <motion start="0.127 0.105 0.746 0.581" end="0 0 1 0.782"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-20.jpg</image>
+    <narration start="LUK.5.20"/>
+    <motion start="0 0 1 0.774" end="0.157 0.032 0.767 0.597"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-21-22.jpg</image>
+    <narration start="LUK.5.21"/>
+    <motion start="0 0 1 0.774" end="0.134 0 0.733 0.573"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-23.jpg</image>
+    <narration start="LUK.5.23"/>
+    <motion start="0.221 0 0.779 0.605" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-24.jpg</image>
+    <narration start="LUK.5.24"/>
+    <motion start="0 0 1 0.774" end="0.291 0 0.709 0.548"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-25.jpg</image>
+    <narration start="LUK.5.25"/>
+    <motion start="0.029 0.008 0.715 0.556" end="0.041 0.016 0.959 0.742"/>
+  </slide>
+  <slide>
+    <image>../../templates/Lk05.17-26 Jesus heals a paralytic/42_Lk_05-26.jpg</image>
+    <narration start="LUK.5.26" end="LUK.5.26"/>
+    <motion start="0 0 1 0.774" end="0.122 0.056 0.779 0.605"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

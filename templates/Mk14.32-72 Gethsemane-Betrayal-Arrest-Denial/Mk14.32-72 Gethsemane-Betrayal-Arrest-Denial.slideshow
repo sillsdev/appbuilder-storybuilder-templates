@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus is arrested and tried</title>
+  <title lang="fr">Jésus est arrêté et jugé</title>
+  <title lang="nl">Jezus werd gearresteerd en berecht</title>
+  <title lang="pt">Jesus é preso e interrogado</title>
+  <title lang="es">Jesús es arrestado e interrogado</title>
+  <title lang="cust">Jesus is arrested and tried</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MRK14b-title-eng.odg</image>
+    <image lang="fr">MRK14b-title-fra.odg</image>
+    <image lang="nl">MRK14b-title-ndl.odg</image>
+    <image lang="pt">MRK14b-title-por.odg</image>
+    <image lang="es">MRK14b-title-spa.odg</image>
+    <image lang="cust">MRK14b-title-cust.odg</image>
+    <image>MRK14b-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/01_Mk_14_v32a.jpg</image>
+    <narration start="MRK.14.32"/>
+    <motion start="0.273 0.081 0.651 0.508" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/02_Mk_14_v32b.jpg</image>
+    <motion start="0.006 0 0.994 0.774" end="0.171 0 0.659 0.508"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/03_Mk_14_v33-34.jpg</image>
+    <narration start="MRK.14.33"/>
+    <motion start="0.116 0 0.767 0.605" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/04_Mk_14_v35-36.jpg</image>
+    <narration start="MRK.14.35"/>
+    <motion start="0.064 0.121 0.674 0.524" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/04_Mk_14_v35-36.jpg</image>
+    <narration start="MRK.14.36"/>
+    <motion start="0.372 0.452 0.628 0.484" end="0.180 0.137 0.640 0.476"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/05_Mk_14_v37-38.jpg</image>
+    <narration start="MRK.14.37"/>
+    <motion start="0.157 0 0.686 0.532" end="0 0.073 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/41_Mk_14_26_RG.jpg</image>
+    <narration start="MRK.14.39"/>
+    <motion start="0.058 0.065 0.756 0.581" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/41_Mk_14_20a_RG.jpg</image>
+    <narration start="MRK.14.41"/>
+    <motion start="0.221 0.048 0.698 0.540" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/07_Mk_14_v43-46.jpg</image>
+    <narration start="MRK.14.43"/>
+    <motion start="0 0.113 0.408 0.298" end="0 0 0.562 0.427"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/07_Mk_14_v43-46.jpg</image>
+    <motion start="0.237 0 0.763 0.581" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/08_Mk_14_v47.jpg</image>
+    <narration start="MRK.14.47"/>
+    <motion start="0.233 0.040 0.738 0.573" end="0 0.032 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/09_Mk_14_v48-52.jpg</image>
+    <narration start="MRK.14.48"/>
+    <motion start="0 0.089 0.787 0.589" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/06_Mk_14_v39-42.jpg</image>
+    <narration start="MRK.14.51"/>
+    <motion start="0.116 0.040 0.709 0.556" end="0.174 0.153 0.465 0.363"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/10_Mk_14_v53a.jpg</image>
+    <narration start="MRK.14.53"/>
+    <motion start="0 0 1 0.774" end="0.134 0.056 0.709 0.556"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/11_Mk_14_v53b.jpg</image>
+    <motion start="0 0 0.791 0.613" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/12_Mk_14_v54.jpg</image>
+    <narration start="MRK.14.54"/>
+    <motion start="0 0 1 0.774" end="0.035 0.177 0.965 0.758"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/13_Mk_14_v55-56.jpg</image>
+    <narration start="MRK.14.55"/>
+    <motion start="0.267 0.040 0.698 0.532" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/14_Mk_14_v57-59.jpg</image>
+    <narration start="MRK.14.57"/>
+    <motion start="0.302 0.056 0.640 0.500" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/15_Mk_14_v60-62.jpg</image>
+    <narration start="MRK.14.60"/>
+    <motion start="0.378 0.258 0.605 0.468" end="0 0.202 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/15_Mk_14_v60-62.jpg</image>
+    <narration start="MRK.14.62"/>
+    <motion start="0 0 1 0.774" end="0.081 0.202 0.773 0.597"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/16_Mk_14_v63-65.jpg</image>
+    <narration start="MRK.14.63"/>
+    <motion start="0 0.048 0.669 0.516" end="0 0.048 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/17_Mk_14_v66-68.jpg</image>
+    <narration start="MRK.14.66"/>
+    <motion start="0.249 0.056 0.751 0.589" end="0 0 1 0.782"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/18_Mk_14_v69-70.jpg</image>
+    <narration start="MRK.14.69"/>
+    <motion start="0.071 0.008 0.893 0.685" end="0 0.097 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/19_Mk_14_v71-72a.jpg</image>
+    <narration start="MRK.14.71"/>
+    <motion start="0 0.113 0.733 0.548" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk14.32-72 Gethsemane-Betrayal-Arrest-Denial/20_Mk_14_v72b.jpg</image>
+    <narration end="MRK.14.72"/>
+    <motion start="0.250 0.089 0.622 0.484" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

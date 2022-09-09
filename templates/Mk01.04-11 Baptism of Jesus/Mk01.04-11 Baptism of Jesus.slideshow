@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus is baptized</title>
+  <title lang="fr">Jésus est baptisé</title>
+  <title lang="nl">Jezus is gedoopt</title>
+  <title lang="pt">Jesus é batizado</title>
+  <title lang="es">Jesús es bautizado</title>
+  <title lang="cust">Jesus is baptized</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MRK1-title-eng.odg</image>
+    <image lang="fr">MRK1-title-fra.odg</image>
+    <image lang="nl">MRK1-title-ndl.odg</image>
+    <image lang="pt">MRK1-title-por.odg</image>
+    <image lang="es">MRK1-title-spa.odg</image>
+    <image lang="cust">MRK1-title-cust.odg</image>
+    <image>MRK1-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v04.jpg</image>
+    <narration start="MRK.1.4"/>
+    <motion start="0.070 0.008 0.837 0.645" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v05a.jpg</image>
+    <narration start="MRK.1.5"/>
+    <motion start="0.023 0 0.779 0.605" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v05b.jpg</image>
+    <motion start="0.128 0.024 0.680 0.532" end="0 0.056 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v05c.jpg</image>
+    <motion start="0 0 1 0.774" end="0.227 0.242 0.535 0.419"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v06a.jpg</image>
+    <narration start="MRK.1.6"/>
+    <motion start="0.180 0.177 0.645 0.500" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v06b.jpg</image>
+    <motion start="0.153 0.089 0.600 0.460" end="0 0 1 0.766"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v07-08.jpg</image>
+    <narration start="MRK.1.7"/>
+    <motion start="0 0 1 0.774" end="0.058 0 0.605 0.468"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v09a.jpg</image>
+    <narration start="MRK.1.9"/>
+    <motion start="0.273 0.065 0.616 0.484" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v09b.jpg</image>
+    <motion start="0.192 0.032 0.645 0.500" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk01.04-11 Baptism of Jesus/Mk_1_v10-11.jpg</image>
+    <narration start="MRK.1.10" end="MRK.1.11"/>
+    <motion start="0 0.129 0.674 0.516" end="0.151 0.040 0.669 0.516"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

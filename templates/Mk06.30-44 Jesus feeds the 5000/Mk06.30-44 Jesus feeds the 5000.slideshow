@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus feeds 5,000</title>
+  <title lang="fr">Jésus nourrit 5000</title>
+  <title lang="nl">Jezus voedt de 5.000</title>
+  <title lang="pt">Jesus alimenta cinco mil</title>
+  <title lang="es">Jesús alimenta a los cinco mil</title>
+  <title lang="cust">Jesus feeds 5,000</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-SA.mp3</background-filename>
+    </audio>
+    <image lang="en">MRK6-title-eng.odg</image>
+    <image lang="fr">MRK6-title-fra.odg</image>
+    <image lang="nl">MRK6-title-ndl.odg</image>
+    <image lang="pt">MRK6-title-por.odg</image>
+    <image lang="es">MRK6-title-spa.odg</image>
+    <image lang="cust">MRK6-title-cust.odg</image>
+    <image>MRK6-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk06.30-44 Jesus feeds the 5000/41_Mk_06_30-32.jpg</image>
+    <narration start="MRK.6.30"/>
+    <motion start="0.279 0.032 0.721 0.556" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk06.30-44 Jesus feeds the 5000/41_Mk_06_33.jpg</image>
+    <narration start="MRK.6.33"/>
+    <motion start="0 0.105 1 0.774" end="0.198 0.185 0.802 0.613"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk06.30-44 Jesus feeds the 5000/41_Mk_06_34.jpg</image>
+    <narration start="MRK.6.34"/>
+    <motion start="0 0.040 0.779 0.605" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk06.30-44 Jesus feeds the 5000/41_Mk_06_35.jpg</image>
+    <narration start="MRK.6.35"/>
+    <motion start="0 0 1 0.774" end="0.116 0 0.814 0.629"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk06.30-44 Jesus feeds the 5000/41_Mk_06_36-38.jpg</image>
+    <narration start="MRK.6.36"/>
+    <motion start="0.047 0.024 0.814 0.637" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk06.30-44 Jesus feeds the 5000/41_Mk_06_39-40.jpg</image>
+    <narration start="MRK.6.39"/>
+    <motion start="0.093 0.202 0.872 0.677" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk06.30-44 Jesus feeds the 5000/41_Mk_06_41.jpg</image>
+    <narration start="MRK.6.41"/>
+    <motion start="0.105 0.065 0.762 0.589" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk06.30-44 Jesus feeds the 5000/41_Mk_06_42.jpg</image>
+    <narration start="MRK.6.42"/>
+    <motion start="0 0 0.738 0.573" end="0 0 1 0.774"/>
+  </slide>
+  <slide>
+    <image>../../templates/Mk06.30-44 Jesus feeds the 5000/41_Mk_06_43-44.jpg</image>
+    <narration start="MRK.6.43" end="MRK.6.44"/>
+    <motion start="0 0 0.738 0.573" end="0 0.056 1 0.774"/>
+  </slide>
+  <slide>
+    <image lang="en">../Sweet-credits-eng.odg</image>
+    <image lang="fr">../Sweet-credits-fra.odg</image>
+    <image lang="nl">../Sweet-credits-ndl.odg</image>
+    <image lang="pt">../Sweet-credits-por.odg</image>
+    <image lang="es">../Sweet-credits-spa.odg</image>
+    <image lang="cust">../Sweet-credits-cust.odg</image>
+    <image>Sweet-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>
