@@ -10,13 +10,13 @@
     <audio background="play">
       <background-filename>../music-intro-Jn.mp3</background-filename>
     </audio>
-    <image lang="en">Jn08.1-11-title-eng.odg</image>
-    <image lang="fr">Jn08.1-11-title-fra.odg</image>
-    <image lang="nl">Jn08.1-11-title-ndl.odg</image>
-    <image lang="pt">Jn08.1-11-title-por.odg</image>
-    <image lang="es">Jn08.1-11-title-spa.odg</image>
-    <image lang="cust">Jn08.1-11-title-cust.odg</image>
-    <image>Jn08.1-11-title.jpg</image>
+    <image lang="en">Jn08.01-11-title-eng.odg</image>
+    <image lang="fr">Jn08.01-11-title-fra.odg</image>
+    <image lang="nl">Jn08.01-11-title-ndl.odg</image>
+    <image lang="pt">Jn08.01-11-title-por.odg</image>
+    <image lang="es">Jn08.01-11-title-spa.odg</image>
+    <image lang="cust">Jn08.01-11-title-cust.odg</image>
+    <image>Jn08.01-11-title.jpg</image>
     <timing duration="5000"/>
   </slide>
   <slide>
