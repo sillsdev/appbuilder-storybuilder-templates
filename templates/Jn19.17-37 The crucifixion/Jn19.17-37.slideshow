@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The crucifixion</title>
+  <title lang="fr">La crucifixion</title>
+  <title lang="nl">De kruisiging</title>
+  <title lang="pt">A crucificação</title>
+  <title lang="es">La crucifixion</title>
+  <title lang="cust">The crucifixion</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn19.17-37-title-eng.odg</image>
+    <image lang="fr">Jn19.17-37-title-fra.odg</image>
+    <image lang="nl">Jn19.17-37-title-ndl.odg</image>
+    <image lang="pt">Jn19.17-37-title-por.odg</image>
+    <image lang="es">Jn19.17-37-title-spa.odg</image>
+    <image lang="cust">Jn19.17-37-title-cust.odg</image>
+    <image>Jn19.17-37-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v17.jpg</image>
+    <narration start="JHN.19.17"/>
+    <motion start="0 0 1 1" end="0.208 0.221 0.594 0.593"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v18.jpg</image>
+    <narration start="JHN.19.18"/>
+    <motion start="0.337 0.035 0.663 0.664" end="0.050 0.044 0.901 0.903"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v19a.jpg</image>
+    <narration start="JHN.19.19"/>
+    <motion start="0 0 1 1" end="0.059 0.230 0.762 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v19b.jpg</image>
+    <motion start="0.079 0.053 0.842 0.841" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v20.jpg</image>
+    <narration start="JHN.19.20"/>
+    <motion start="0 0.035 0.792 0.788" end="0.178 0.168 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v21.jpg</image>
+    <narration start="JHN.19.21"/>
+    <motion start="0.104 0 0.792 0.796" end="0.228 0 0.733 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v22.jpg</image>
+    <narration start="JHN.19.22"/>
+    <motion start="0.089 0.009 0.911 0.912" end="0.208 0 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v23.jpg</image>
+    <narration start="JHN.19.23"/>
+    <motion start="0.020 0.133 0.713 0.717" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v24a.jpg</image>
+    <narration start="JHN.19.24"/>
+    <motion start="0 0 1 1" end="0.074 0.239 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v24b.jpg</image>
+    <motion start="0.114 0 0.772 0.779" end="0.153 0.230 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v25.jpg</image>
+    <narration start="JHN.19.25"/>
+    <motion start="0 0 1 1" end="0.025 0.115 0.733 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v26a.jpg</image>
+    <narration start="JHN.19.26"/>
+    <motion start="0 0 1 1" end="0.163 0.186 0.713 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v26b.jpg</image>
+    <motion start="0.005 0.088 0.871 0.876" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v27.jpg</image>
+    <narration start="JHN.19.27"/>
+    <motion start="0.198 0.142 0.713 0.717" end="0 0 0.995 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v28.jpg</image>
+    <narration start="JHN.19.28"/>
+    <motion start="0 0 1 1" end="0.114 0.133 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v29a.jpg</image>
+    <narration start="JHN.19.29"/>
+    <motion start="0 0 1 1" end="0.069 0.159 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v29c.jpg</image>
+    <motion start="0.015 0.009 0.985 0.991" end="0.054 0.088 0.827 0.832"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v30a.jpg</image>
+    <narration start="JHN.19.30"/>
+    <motion start="0.168 0.097 0.683 0.690" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v30b.jpg</image>
+    <motion start="0.129 0.168 0.762 0.761" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v31a.jpg</image>
+    <narration start="JHN.19.31"/>
+    <motion start="0.094 0.062 0.703 0.708" end="0.257 0.044 0.584 0.584"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v31b.jpg</image>
+    <motion start="0 0 1 1" end="0.119 0.080 0.832 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v32.jpg</image>
+    <narration start="JHN.19.32"/>
+    <motion start="0.238 0.080 0.762 0.770" end="0.079 0.035 0.812 0.814"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v33.jpg</image>
+    <narration start="JHN.19.33"/>
+    <motion start="0.153 0 0.762 0.761" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v34a.jpg</image>
+    <narration start="JHN.19.34"/>
+    <motion start="0 0.124 0.708 0.708" end="0.129 0 0.673 0.673"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v34b.jpg</image>
+    <motion start="0 0 1 1" end="0.040 0 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v35.jpg</image>
+    <narration start="JHN.19.35"/>
+    <motion start="0.198 0.053 0.782 0.788" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v36.jpg</image>
+    <narration start="JHN.19.36"/>
+    <motion start="0 0 1 1" end="0.213 0.035 0.787 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.17-37 The crucifixion/VB-John 19v37.jpg</image>
+    <narration start="JHN.19.37" end="JHN.19.37"/>
+    <motion start="0.124 0.159 0.772 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

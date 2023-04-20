@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus accused of blasphemy</title>
+  <title lang="fr">Jésus accusé de blasphème</title>
+  <title lang="nl">Jezus beschuldigd van godslastering</title>
+  <title lang="pt">Jesus acusado de blasfêmia</title>
+  <title lang="es">Jesús acusado de blasfemia</title>
+  <title lang="cust">Jesus accused of blasphemy</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn10.22-42-title-eng.odg</image>
+    <image lang="fr">Jn10.22-42-title-fra.odg</image>
+    <image lang="nl">Jn10.22-42-title-ndl.odg</image>
+    <image lang="pt">Jn10.22-42-title-por.odg</image>
+    <image lang="es">Jn10.22-42-title-spa.odg</image>
+    <image lang="cust">Jn10.22-42-title-cust.odg</image>
+    <image>Jn10.22-42-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v22-23.jpg</image>
+    <narration start="JHN.10.22"/>
+    <motion start="0.129 0.071 0.653 0.655" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v24a.jpg</image>
+    <narration start="JHN.10.24"/>
+    <motion start="0 0 0.748 0.752" end="0.054 0.035 0.589 0.593"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v24b.jpg</image>
+    <motion start="0 0 1 1" end="0.213 0.035 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v25-26.jpg</image>
+    <narration start="JHN.10.25"/>
+    <motion start="0.020 0 0.723 0.726" end="0.208 0 0.673 0.673"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v27-28.jpg</image>
+    <narration start="JHN.10.27"/>
+    <motion start="0.158 0 0.683 0.681" end="0.020 0 0.762 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v29.jpg</image>
+    <narration start="JHN.10.29"/>
+    <motion start="0 0 1 1" end="0.208 0.080 0.683 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v30.jpg</image>
+    <narration start="JHN.10.30"/>
+    <motion start="0.104 0.106 0.762 0.761" end="0.168 0.044 0.673 0.673"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v31.jpg</image>
+    <narration start="JHN.10.31"/>
+    <motion start="0.104 0.071 0.752 0.752" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v32.jpg</image>
+    <narration start="JHN.10.32"/>
+    <motion start="0 0 1 1" end="0.040 0 0.812 0.814"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v33.jpg</image>
+    <narration start="JHN.10.33"/>
+    <motion start="0 0.044 0.822 0.823" end="0.208 0.018 0.792 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v34.jpg</image>
+    <narration start="JHN.10.34"/>
+    <motion start="0.074 0 0.851 0.858" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v35-36.jpg</image>
+    <narration start="JHN.10.35"/>
+    <motion start="0 0 1 1" end="0.158 0.133 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v37.jpg</image>
+    <narration start="JHN.10.37"/>
+    <motion start="0.089 0.071 0.842 0.850" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v38.jpg</image>
+    <narration start="JHN.10.38"/>
+    <motion start="0.193 0.080 0.743 0.743" end="0.050 0.053 0.723 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v39.jpg</image>
+    <narration start="JHN.10.39"/>
+    <motion start="0.079 0.088 0.851 0.858" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v40.jpg</image>
+    <narration start="JHN.10.40"/>
+    <motion start="0 0 1 1" end="0.094 0.195 0.762 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v41.jpg</image>
+    <narration start="JHN.10.41"/>
+    <motion start="0 0 0.673 0.673" end="0.094 0.027 0.584 0.584"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.22-42 Jesus accused of blasphemy/VB-John 10v42.jpg</image>
+    <narration start="JHN.10.42" end="JHN.10.42"/>
+    <motion start="0.069 0 0.861 0.867" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

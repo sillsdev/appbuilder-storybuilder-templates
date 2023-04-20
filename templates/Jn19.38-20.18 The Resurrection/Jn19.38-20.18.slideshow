@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The resurrection</title>
+  <title lang="fr">La résurrection</title>
+  <title lang="nl">De opstanding</title>
+  <title lang="pt">A ressurreição</title>
+  <title lang="es">La resurrección</title>
+  <title lang="cust">The resurrection</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn19.38-20.18-title-eng.odg</image>
+    <image lang="fr">Jn19.38-20.18-title-fra.odg</image>
+    <image lang="nl">Jn19.38-20.18-title-ndl.odg</image>
+    <image lang="pt">Jn19.38-20.18-title-por.odg</image>
+    <image lang="es">Jn19.38-20.18-title-spa.odg</image>
+    <image lang="cust">Jn19.38-20.18-title-cust.odg</image>
+    <image>Jn19.38-20.18-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 19v38a.jpg</image>
+    <narration start="JHN.19.38"/>
+    <motion start="0.193 0.044 0.733 0.735" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 19v38b.jpg</image>
+    <motion start="0.139 0.051 0.738 0.718" end="0 0 1.035 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 19v39.jpg</image>
+    <narration start="JHN.19.39"/>
+    <motion start="0 0 0.822 0.823" end="0.129 0.018 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 19v40.jpg</image>
+    <narration start="JHN.19.40"/>
+    <motion start="0.208 0.204 0.792 0.796" end="0.025 0.168 0.772 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 19v41.jpg</image>
+    <narration start="JHN.19.41"/>
+    <motion start="0.163 0.097 0.802 0.805" end="0.005 0.142 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 19v42.jpg</image>
+    <narration start="JHN.19.42" end="JHN.19.42"/>
+    <motion start="0.069 0.115 0.703 0.708" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v1.jpg</image>
+    <narration start="JHN.20.1"/>
+    <motion start="0.064 0.106 0.743 0.743" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v2a.jpg</image>
+    <narration start="JHN.20.2"/>
+    <motion start="0 0 1 1" end="0.188 0.071 0.743 0.743"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v2b.jpg</image>
+    <motion start="0 0 1 1" end="0.134 0.142 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v3.jpg</image>
+    <narration start="JHN.20.3"/>
+    <motion start="0.005 0 0.990 1" end="0.134 0.097 0.787 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v4.jpg</image>
+    <narration start="JHN.20.4"/>
+    <motion start="0 0.080 0.822 0.823" end="0.213 0.106 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v5.jpg</image>
+    <narration start="JHN.20.5"/>
+    <motion start="0 0 1 1" end="0.158 0.106 0.713 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v6.jpg</image>
+    <narration start="JHN.20.6"/>
+    <motion start="0.035 0.035 0.965 0.965" end="0.178 0.088 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v7.jpg</image>
+    <narration start="JHN.20.7"/>
+    <motion start="0.183 0.053 0.743 0.743" end="0 0.204 0.792 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v8.jpg</image>
+    <narration start="JHN.20.8"/>
+    <motion start="0 0 1 1" end="0.282 0.027 0.693 0.699"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v9.jpg</image>
+    <narration start="JHN.20.9"/>
+    <motion start="0.084 0.035 0.723 0.726" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v10.jpg</image>
+    <narration start="JHN.20.10"/>
+    <motion start="0.233 0.142 0.743 0.743" end="0.005 0 0.990 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v11.jpg</image>
+    <narration start="JHN.20.11"/>
+    <motion start="0 0 1 1" end="0.045 0.088 0.782 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v12.jpg</image>
+    <narration start="JHN.20.12"/>
+    <motion start="0.119 0 0.762 0.770" end="0.129 0.257 0.743 0.743"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v13a.jpg</image>
+    <narration start="JHN.20.13"/>
+    <motion start="0.069 0.115 0.822 0.823" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v13b.jpg</image>
+    <motion start="0.050 0.080 0.762 0.761" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v14.jpg</image>
+    <narration start="JHN.20.14"/>
+    <motion start="0 0 1 1" end="0.124 0.142 0.713 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v15a.jpg</image>
+    <narration start="JHN.20.15"/>
+    <motion start="0 0.106 0.792 0.796" end="0.079 0.257 0.609 0.611"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v15b.jpg</image>
+    <motion start="0.233 0.106 0.728 0.726" end="0.010 0.115 0.832 0.832"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v16.jpg</image>
+    <narration start="JHN.20.16"/>
+    <motion start="0.054 0.142 0.673 0.673" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v17a.jpg</image>
+    <narration start="JHN.20.17"/>
+    <motion start="0.025 0.124 0.762 0.770" end="0.208 0.150 0.733 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v17b.jpg</image>
+    <motion start="0.094 0.106 0.733 0.735" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v18.jpg</image>
+    <narration start="JHN.20.18"/>
+    <motion start="0 0 1 1" end="0.104 0.053 0.812 0.814"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn19.38-20.18 The resurrection/VB-John 20v18alt.jpg</image>
+    <narration end="JHN.20.18"/>
+    <motion start="0.109 0.071 0.752 0.752" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

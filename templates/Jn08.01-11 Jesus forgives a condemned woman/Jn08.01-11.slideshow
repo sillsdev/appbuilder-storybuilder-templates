@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus forgives a condemned woman</title>
+  <title lang="fr">Jésus pardonne à une femme condamnée</title>
+  <title lang="nl">Jezus vergeeft een veroordeelde vrouw</title>
+  <title lang="pt">Jesus perdoa uma mulher condenada</title>
+  <title lang="es">Jesús perdona a mujer condenada</title>
+  <title lang="cust">Jesus forgives a condemned woman</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn08.01-11-title-eng.odg</image>
+    <image lang="fr">Jn08.01-11-title-fra.odg</image>
+    <image lang="nl">Jn08.01-11-title-ndl.odg</image>
+    <image lang="pt">Jn08.01-11-title-por.odg</image>
+    <image lang="es">Jn08.01-11-title-spa.odg</image>
+    <image lang="cust">Jn08.01-11-title-cust.odg</image>
+    <image>Jn08.01-11-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v1.jpg</image>
+    <narration start="JHN.8.1"/>
+    <motion start="0.149 0.186 0.767 0.770" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v2.jpg</image>
+    <narration start="JHN.8.2"/>
+    <motion start="0.168 0.133 0.703 0.708" end="0.064 0.080 0.921 0.920"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v3.jpg</image>
+    <narration start="JHN.8.3"/>
+    <motion start="0 0 1 1" end="0.163 0.080 0.663 0.664"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v4.jpg</image>
+    <narration start="JHN.8.4"/>
+    <motion start="0 0 1 1" end="0.173 0.062 0.644 0.646"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v5.jpg</image>
+    <narration start="JHN.8.5"/>
+    <motion start="0 0 1 1" end="0.228 0.168 0.644 0.646"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v6a.jpg</image>
+    <narration start="JHN.8.6"/>
+    <motion start="0 0.150 0.787 0.788" end="0.193 0.195 0.807 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v6b.jpg</image>
+    <motion start="0 0 1 1" end="0.233 0.230 0.767 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v7a.jpg</image>
+    <narration start="JHN.8.7"/>
+    <motion start="0 0 1 1" end="0.144 0.071 0.772 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v7b.jpg</image>
+    <motion start="0.149 0.106 0.693 0.699" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v8.jpg</image>
+    <narration start="JHN.8.8"/>
+    <motion start="0 0 1 1" end="0.257 0.221 0.653 0.655"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v9a.jpg</image>
+    <narration start="JHN.8.9"/>
+    <motion start="0 0.159 0.772 0.779" end="0.198 0.159 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v9b.jpg</image>
+    <motion start="0 0 1 1" end="0.134 0.097 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v10.jpg</image>
+    <narration start="JHN.8.10"/>
+    <motion start="0 0 1 1" end="0.173 0.062 0.752 0.752"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v11a.jpg</image>
+    <narration start="JHN.8.11"/>
+    <motion start="0 0 1 1" end="0.139 0.071 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn08.01-11 Jesus forgives a condemned woman/VB-John 8v11b.jpg</image>
+    <narration end="JHN.8.11"/>
+    <motion start="0.050 0.080 0.802 0.805" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

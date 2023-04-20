@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">The disciples follow Jesus</title>
+  <title lang="fr">Les disciples suivent Jésus</title>
+  <title lang="nl">De discipelen volgen Jezus</title>
+  <title lang="pt">Os discípulos seguem Jesus</title>
+  <title lang="es">Los discípulos siguen a Jesús</title>
+  <title lang="cust">The disciples follow Jesus</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn01.35-51-title-eng.odg</image>
+    <image lang="fr">Jn01.35-51-title-fra.odg</image>
+    <image lang="nl">Jn01.35-51-title-ndl.odg</image>
+    <image lang="pt">Jn01.35-51-title-por.odg</image>
+    <image lang="es">Jn01.35-51-title-spa.odg</image>
+    <image lang="cust">Jn01.35-51-title-cust.odg</image>
+    <image>Jn01.35-51-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v35.jpg</image>
+    <narration start="JHN.1.35"/>
+    <motion start="0.119 0.106 0.767 0.770" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v36.jpg</image>
+    <narration start="JHN.1.36"/>
+    <motion start="0 0 1 1" end="0.099 0.062 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v37.jpg</image>
+    <narration start="JHN.1.37"/>
+    <motion start="0.223 0.088 0.767 0.770" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v38a.jpg</image>
+    <narration start="JHN.1.38"/>
+    <motion start="0.079 0.097 0.782 0.779" end="0 0 0.946 0.947"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v38b.jpg</image>
+    <motion start="0 0 0.866 0.867" end="0.163 0 0.837 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v39a.jpg</image>
+    <narration start="JHN.1.39"/>
+    <motion start="0 0 1 1" end="0.084 0.115 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v39b.jpg</image>
+    <motion start="0 0.071 0.871 0.876" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v40.jpg</image>
+    <narration start="JHN.1.40"/>
+    <motion start="0 0 0.856 0.858" end="0.124 0.124 0.876 0.876"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v41.jpg</image>
+    <narration start="JHN.1.41"/>
+    <motion start="0.005 0.062 0.832 0.832" end="0.129 0.027 0.856 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v42a.jpg</image>
+    <narration start="JHN.1.42"/>
+    <motion start="0.074 0 0.926 0.929" end="0.243 0.239 0.757 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v42b.jpg</image>
+    <motion start="0 0 1 1" end="0.084 0.035 0.866 0.867"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v43a.jpg</image>
+    <narration start="JHN.1.43"/>
+    <motion start="0.153 0.062 0.832 0.832" end="0 0.009 0.990 0.991"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v43b.jpg</image>
+    <motion start="0 0 1 1" end="0.074 0 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v44.jpg</image>
+    <narration start="JHN.1.44"/>
+    <motion start="0 0 1 1" end="0.178 0.133 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v45.jpg</image>
+    <narration start="JHN.1.45"/>
+    <motion start="0.257 0.053 0.743 0.743" end="0.144 0.142 0.856 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v46.jpg</image>
+    <narration start="JHN.1.46"/>
+    <motion start="0 0 0.802 0.805" end="0.129 0.062 0.861 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v47.jpg</image>
+    <narration start="JHN.1.47"/>
+    <motion start="0 0 1 1" end="0.178 0 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v48a.jpg</image>
+    <narration start="JHN.1.48"/>
+    <motion start="0.069 0.177 0.752 0.752" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v48b.jpg</image>
+    <motion start="0.089 0.265 0.708 0.708" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v49.jpg</image>
+    <narration start="JHN.1.49"/>
+    <motion start="0.035 0.106 0.772 0.770" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v50.jpg</image>
+    <narration start="JHN.1.50"/>
+    <motion start="0 0 1 1" end="0.069 0.044 0.876 0.876"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn01.35-51 The disciples follow Jesus/VB-John 1v51.jpg</image>
+    <narration start="JHN.1.51" end="JHN.1.51"/>
+    <motion start="0.114 0 0.886 0.885" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

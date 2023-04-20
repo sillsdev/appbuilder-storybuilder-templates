@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus heals an officials son</title>
+  <title lang="fr">Jésus guérit un le fils du fonctionnaire</title>
+  <title lang="nl">Jezus geneest de zoon van een ambtenaar</title>
+  <title lang="pt">Jesus cura umfilho do oficial</title>
+  <title lang="es">Jesús sana al hijo de un oficial</title>
+  <title lang="cust">Jesus heals an officials son</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn04.43-54-title-eng.odg</image>
+    <image lang="fr">Jn04.43-54-title-fra.odg</image>
+    <image lang="nl">Jn04.43-54-title-ndl.odg</image>
+    <image lang="pt">Jn04.43-54-title-por.odg</image>
+    <image lang="es">Jn04.43-54-title-spa.odg</image>
+    <image lang="cust">Jn04.43-54-title-cust.odg</image>
+    <image>Jn04.43-54-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v43-44.jpg</image>
+    <narration start="JHN.4.43"/>
+    <motion start="0 0 1 1" end="0.198 0.053 0.609 0.611"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v45.jpg</image>
+    <narration start="JHN.4.45"/>
+    <motion start="0.238 0 0.762 0.770" end="0 0.018 0.713 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v46a.jpg</image>
+    <narration start="JHN.4.46"/>
+    <motion start="0.144 0.159 0.782 0.788" end="0 0.142 0.743 0.752"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v46b-47.jpg</image>
+    <motion start="0.441 0.195 0.525 0.531" end="0.158 0.159 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v48.jpg</image>
+    <narration start="JHN.4.48"/>
+    <motion start="0.045 0.044 0.842 0.841" end="0.178 0.053 0.545 0.549"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v49.jpg</image>
+    <narration start="JHN.4.49"/>
+    <motion start="0.054 0.080 0.921 0.920" end="0.218 0.115 0.703 0.708"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v50a.jpg</image>
+    <narration start="JHN.4.50"/>
+    <motion start="0 0 1 1" end="0 0.009 0.832 0.832"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v50b.jpg</image>
+    <motion start="0 0.124 0.792 0.796" end="0.203 0.124 0.723 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v51.jpg</image>
+    <narration start="JHN.4.51"/>
+    <motion start="0.064 0 0.871 0.876" end="0.109 0.062 0.634 0.637"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v52a.jpg</image>
+    <narration start="JHN.4.52"/>
+    <motion start="0.158 0.027 0.842 0.841" end="0.218 0.062 0.594 0.593"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v52b.jpg</image>
+    <motion start="0.040 0.080 0.743 0.743" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v53a.jpg</image>
+    <narration start="JHN.4.53"/>
+    <motion start="0.193 0.062 0.713 0.717" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn04.43-54 Jesus heals an officials son/VB-John 4v53b-54.jpg</image>
+    <narration end="JHN.4.54"/>
+    <motion start="0.005 0 0.990 1" end="0.153 0.124 0.787 0.788"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

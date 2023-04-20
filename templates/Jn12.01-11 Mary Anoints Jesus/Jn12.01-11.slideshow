@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Mary anoints Jesus</title>
+  <title lang="fr">Marie oint Jésus</title>
+  <title lang="nl">Maria zalft Jezus</title>
+  <title lang="pt">Maria unge Jesus</title>
+  <title lang="es">Maria unge a Jesús</title>
+  <title lang="cust">Mary anoints Jesus</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn12.01-11-title-eng.odg</image>
+    <image lang="fr">Jn12.01-11-title-fra.odg</image>
+    <image lang="nl">Jn12.01-11-title-ndl.odg</image>
+    <image lang="pt">Jn12.01-11-title-por.odg</image>
+    <image lang="es">Jn12.01-11-title-spa.odg</image>
+    <image lang="cust">Jn12.01-11-title-cust.odg</image>
+    <image>Jn12.01-11-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v1.jpg</image>
+    <narration start="JHN.12.1"/>
+    <motion start="0.188 0.115 0.772 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v2a.jpg</image>
+    <narration start="JHN.12.2"/>
+    <motion start="0 0 1 1" end="0.030 0.062 0.797 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v2b.jpg</image>
+    <motion start="0.040 0.071 0.921 0.920" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v3a.jpg</image>
+    <narration start="JHN.12.3"/>
+    <motion start="0 0 1 1" end="0.005 0.027 0.921 0.929"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v3c.jpg</image>
+    <motion start="0 0 1 1" end="0.084 0.071 0.842 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v4.jpg</image>
+    <narration start="JHN.12.4"/>
+    <motion start="0.089 0.053 0.842 0.850" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v5.jpg</image>
+    <narration start="JHN.12.5"/>
+    <motion start="0 0 1 1" end="0.069 0.018 0.861 0.867"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v6.jpg</image>
+    <narration start="JHN.12.6"/>
+    <motion start="0.168 0.071 0.713 0.717" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v7.jpg</image>
+    <narration start="JHN.12.7"/>
+    <motion start="0 0 1 1" end="0.025 0.044 0.891 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v8.jpg</image>
+    <narration start="JHN.12.8"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v9a.jpg</image>
+    <narration start="JHN.12.9"/>
+    <motion start="0 0.097 0.901 0.903" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v9b.jpg</image>
+    <motion start="0 0 1 1" end="0.153 0.062 0.792 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v10.JPG</image>
+    <narration start="JHN.12.10"/>
+    <motion start="0 0 1 1" end="0 0 0.876 0.876"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn12.01-11 Mary anoints Jesus/VB-John 12v11.jpg</image>
+    <narration start="JHN.12.11" end="JHN.12.11"/>
+    <motion start="0 0 1 1" end="0.040 0 0.921 0.920"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

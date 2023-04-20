@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus feeds a multitude</title>
+  <title lang="fr">Jésus nourrit une multitude</title>
+  <title lang="nl">Jezus voedt een menigte</title>
+  <title lang="pt">Jesus alimenta uma multidão</title>
+  <title lang="es">Jesús alimenta una multitud</title>
+  <title lang="cust">Jesus feeds a multitude</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn06.01-15-title-eng.odg</image>
+    <image lang="fr">Jn06.01-15-title-fra.odg</image>
+    <image lang="nl">Jn06.01-15-title-ndl.odg</image>
+    <image lang="pt">Jn06.01-15-title-por.odg</image>
+    <image lang="es">Jn06.01-15-title-spa.odg</image>
+    <image lang="cust">Jn06.01-15-title-cust.odg</image>
+    <image>Jn06.01-15-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v1.jpg</image>
+    <narration start="JHN.6.1"/>
+    <motion start="0 0 1 1" end="0.223 0.088 0.728 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v2.jpg</image>
+    <narration start="JHN.6.2"/>
+    <motion start="0 0 0.842 0.841" end="0.158 0 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v3.jpg</image>
+    <narration start="JHN.6.3"/>
+    <motion start="0.178 0.097 0.767 0.770" end="0.327 0.088 0.609 0.611"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v4-5.jpg</image>
+    <narration start="JHN.6.4"/>
+    <motion start="0 0 1 1" end="0 0.274 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v6.jpg</image>
+    <narration start="JHN.6.6"/>
+    <motion start="0 0 1 1" end="0.153 0.124 0.693 0.699"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v7.jpg</image>
+    <narration start="JHN.6.7"/>
+    <motion start="0 0 1 1" end="0.178 0.106 0.718 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v8-9.jpg</image>
+    <narration start="JHN.6.8"/>
+    <motion start="0 0 1 1" end="0.262 0.265 0.738 0.735"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v10a.jpg</image>
+    <narration start="JHN.6.10"/>
+    <motion start="0.069 0 0.861 0.867" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v10b .jpg</image>
+    <motion start="0.089 0.177 0.822 0.823" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v11a.jpg</image>
+    <narration start="JHN.6.11"/>
+    <motion start="0 0 0.851 0.858" end="0.158 0.071 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v11b.jpg</image>
+    <motion start="0 0 0.832 0.832" end="0.134 0.133 0.688 0.690"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v12.jpg</image>
+    <narration start="JHN.6.12"/>
+    <motion start="0 0 1 1" end="0.144 0.097 0.772 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v13.jpg</image>
+    <narration start="JHN.6.13"/>
+    <motion start="0.109 0.186 0.673 0.673" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v14.jpg</image>
+    <narration start="JHN.6.14"/>
+    <motion start="0 0.044 0.822 0.823" end="0.238 0.177 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn06.01-15 Jesus feeds a multitude/VB-John 6v15.jpg</image>
+    <narration start="JHN.6.15" end="JHN.6.15"/>
+    <motion start="0.079 0.062 0.718 0.717" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

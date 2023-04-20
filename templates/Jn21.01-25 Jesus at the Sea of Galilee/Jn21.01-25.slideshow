@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus at the Sea of Galilee</title>
+  <title lang="fr">Jésus à la mer de Galilée</title>
+  <title lang="nl">Jezus aan het meer van Galilea</title>
+  <title lang="pt">Jesus no mar da Galileia</title>
+  <title lang="es">Jesús en el mar de galilea</title>
+  <title lang="cust">Jesus at the Sea of Galilee</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn21.01-25-title-eng.odg</image>
+    <image lang="fr">Jn21.01-25-title-fra.odg</image>
+    <image lang="nl">Jn21.01-25-title-ndl.odg</image>
+    <image lang="pt">Jn21.01-25-title-por.odg</image>
+    <image lang="es">Jn21.01-25-title-spa.odg</image>
+    <image lang="cust">Jn21.01-25-title-cust.odg</image>
+    <image>Jn21.01-25-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v1.jpg</image>
+    <narration start="JHN.21.1"/>
+    <motion start="0.257 0.080 0.624 0.628" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v2.jpg</image>
+    <narration start="JHN.21.2"/>
+    <motion start="0 0 1 1" end="0 0.053 0.782 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v3a.jpg</image>
+    <narration start="JHN.21.3"/>
+    <motion start="0.059 0.071 0.752 0.752" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v3c.jpg</image>
+    <motion start="0.025 0.062 0.772 0.779" end="0.129 0.027 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v4.jpg</image>
+    <narration start="JHN.21.4"/>
+    <motion start="0 0 0.743 0.743" end="0.292 0.115 0.673 0.673"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v5a.jpg</image>
+    <narration start="JHN.21.5"/>
+    <motion start="0.238 0.035 0.762 0.761" end="0.396 0.150 0.574 0.575"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v5b.jpg</image>
+    <motion start="0.050 0 0.792 0.796" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v6b.jpg</image>
+    <narration start="JHN.21.6"/>
+    <motion start="0 0.035 0.965 0.965" end="0.109 0.088 0.812 0.814"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v6c.jpg</image>
+    <motion start="0 0 1 1" end="0.203 0.212 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v7a.jpg</image>
+    <narration start="JHN.21.7"/>
+    <motion start="0 0.062 0.752 0.752" end="0.099 0.044 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v7b.jpg</image>
+    <motion start="0.074 0.027 0.926 0.929" end="0.228 0.044 0.713 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v8a.jpg</image>
+    <narration start="JHN.21.8"/>
+    <motion start="0 0.106 0.802 0.805" end="0.168 0.115 0.772 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v8b.jpg</image>
+    <motion start="0 0 0.822 0.823" end="0.134 0.027 0.757 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v9.jpg</image>
+    <narration start="JHN.21.9"/>
+    <motion start="0 0 1 1" end="0.139 0.106 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v10.jpg</image>
+    <narration start="JHN.21.10"/>
+    <motion start="0 0 1 1" end="0.134 0.044 0.812 0.814"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v11.jpg</image>
+    <narration start="JHN.21.11"/>
+    <motion start="0.129 0.124 0.743 0.752" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v12.jpg</image>
+    <narration start="JHN.21.12"/>
+    <motion start="0.089 0 0.752 0.752" end="0 0 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v13.jpg</image>
+    <narration start="JHN.21.13"/>
+    <motion start="0 0 1 1" end="0.198 0.044 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v14.jpg</image>
+    <narration start="JHN.21.14"/>
+    <motion start="0.178 0.168 0.663 0.664" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v15a.jpg</image>
+    <narration start="JHN.21.15"/>
+    <motion start="0 0 1 1" end="0.153 0.097 0.762 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v15c.jpg</image>
+    <motion start="0 0 0.752 0.752" end="0.208 0.115 0.792 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v16a.jpg</image>
+    <narration start="JHN.21.16"/>
+    <motion start="0.158 0 0.842 0.841" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v16c_alt2.jpg</image>
+    <motion start="0.124 0.044 0.713 0.717" end="0.163 0.080 0.624 0.628"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v17a.jpg</image>
+    <narration start="JHN.21.17"/>
+    <motion start="0 0 1 1" end="0.158 0.062 0.772 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v17b.jpg</image>
+    <motion start="0.020 0.044 0.832 0.832" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v17c.jpg</image>
+    <motion start="0.030 0 0.812 0.814" end="0.188 0.044 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v18.jpg</image>
+    <narration start="JHN.21.18"/>
+    <motion start="0.218 0.115 0.663 0.664" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v19.jpg</image>
+    <narration start="JHN.21.19"/>
+    <motion start="0.282 0.106 0.708 0.708" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v20.jpg</image>
+    <narration start="JHN.21.20"/>
+    <motion start="0 0 1 1" end="0.020 0.106 0.718 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v21.jpg</image>
+    <narration start="JHN.21.21"/>
+    <motion start="0.109 0.044 0.842 0.850" end="0.064 0 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v22.jpg</image>
+    <narration start="JHN.21.22"/>
+    <motion start="0.104 0 0.792 0.796" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v23.jpg</image>
+    <narration start="JHN.21.23"/>
+    <motion start="0 0.009 0.752 0.752" end="0.114 0 0.886 0.885"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v24.jpg</image>
+    <narration start="JHN.21.24"/>
+    <motion start="0 0 1 1" end="0.149 0.009 0.752 0.752"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn21.01-25 Jesus at the Sea of Galilee/VB-John 21v25.jpg</image>
+    <narration start="JHN.21.25" end="JHN.21.25"/>
+    <motion start="0.153 0 0.693 0.699" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus the Good Shepherd</title>
+  <title lang="fr">Jésus le bon berger</title>
+  <title lang="nl">Jezus de goede herder</title>
+  <title lang="pt">Jesus o bom pastor</title>
+  <title lang="es">Jesús el buen pastor</title>
+  <title lang="cust">Jesus the Good Shepherd</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn10.01-21-title-eng.odg</image>
+    <image lang="fr">Jn10.01-21-title-fra.odg</image>
+    <image lang="nl">Jn10.01-21-title-ndl.odg</image>
+    <image lang="pt">Jn10.01-21-title-por.odg</image>
+    <image lang="es">Jn10.01-21-title-spa.odg</image>
+    <image lang="cust">Jn10.01-21-title-cust.odg</image>
+    <image>Jn10.01-21-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v1.jpg</image>
+    <narration start="JHN.10.1"/>
+    <motion start="0.259 0.096 0.714 0.712" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v2.jpg</image>
+    <narration start="JHN.10.2"/>
+    <motion start="0 0 1 1" end="0.092 0.048 0.822 0.817"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v3.jpg</image>
+    <narration start="JHN.10.3"/>
+    <motion start="0 0 0.822 0.817" end="0.270 0.048 0.708 0.702"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v4.jpg</image>
+    <narration start="JHN.10.4"/>
+    <motion start="0 0 1 1" end="0.205 0.077 0.724 0.721"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v5.jpg</image>
+    <narration start="JHN.10.5"/>
+    <motion start="0.108 0.135 0.778 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v6.jpg</image>
+    <narration start="JHN.10.6"/>
+    <motion start="0 0 1 1" end="0.086 0.115 0.757 0.750"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v7-8.jpg</image>
+    <narration start="JHN.10.7"/>
+    <motion start="0.076 0.144 0.730 0.731" end="0.032 0.010 0.908 0.904"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v9.jpg</image>
+    <narration start="JHN.10.9"/>
+    <motion start="0 0 1 1" end="0.022 0.202 0.773 0.769"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v10.jpg</image>
+    <narration start="JHN.10.10"/>
+    <motion start="0 0 1 1" end="0 0.010 0.746 0.740"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v11.jpg</image>
+    <narration start="JHN.10.11"/>
+    <motion start="0 0 1 1" end="0.150 0.108 0.800 0.795"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v12.jpg</image>
+    <narration start="JHN.10.12"/>
+    <motion start="0 0 1 1" end="0.219 0.218 0.786 0.787"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v13.jpg</image>
+    <narration start="JHN.10.13"/>
+    <motion start="0 0 1 1" end="0.081 0.038 0.730 0.731"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v14-15.jpg</image>
+    <narration start="JHN.10.14"/>
+    <motion start="0.162 0 0.838 0.837" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v16.jpg</image>
+    <narration start="JHN.10.16"/>
+    <motion start="0 0 1 1" end="0.277 0.150 0.673 0.673"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v17.jpg</image>
+    <narration start="JHN.10.17"/>
+    <motion start="0.312 0 0.688 0.690" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v18a.jpg</image>
+    <narration start="JHN.10.18"/>
+    <motion start="0 0 1 1" end="0.064 0.062 0.777 0.779"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v18b.jpg</image>
+    <motion start="0 0 1 1" end="0.084 0.106 0.713 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v19.jpg</image>
+    <narration start="JHN.10.19"/>
+    <motion start="0 0 1 1" end="0.223 0.168 0.757 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v20.jpg</image>
+    <narration start="JHN.10.20"/>
+    <motion start="0 0 1 1" end="0.114 0.088 0.797 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn10.01-21 Jesus the Good Shepherd/VB-John 10v21.jpg</image>
+    <narration start="JHN.10.21" end="JHN.10.21"/>
+    <motion start="0.149 0.133 0.792 0.796" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

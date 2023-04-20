@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus raises Lazarus</title>
+  <title lang="fr">Jésus lève Lazare</title>
+  <title lang="nl">Jezus heft Lazarus op</title>
+  <title lang="pt">Jesus levanta Lázaro</title>
+  <title lang="es">Jesús eleva a lazarus</title>
+  <title lang="cust">Jesus raises Lazarus</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn11.01-57-title-eng.odg</image>
+    <image lang="fr">Jn11.01-57-title-fra.odg</image>
+    <image lang="nl">Jn11.01-57-title-ndl.odg</image>
+    <image lang="pt">Jn11.01-57-title-por.odg</image>
+    <image lang="es">Jn11.01-57-title-spa.odg</image>
+    <image lang="cust">Jn11.01-57-title-cust.odg</image>
+    <image>Jn11.01-57-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v1.jpg</image>
+    <narration start="JHN.11.1"/>
+    <motion start="0 0 1 1" end="0.104 0.150 0.851 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v2.jpg</image>
+    <narration start="JHN.11.2"/>
+    <motion start="0.015 0 0.921 0.920" end="0.054 0.027 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v3.jpg</image>
+    <narration start="JHN.11.3"/>
+    <motion start="0.104 0 0.792 0.796" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v4.jpg</image>
+    <narration start="JHN.11.4"/>
+    <motion start="0.010 0 0.772 0.779" end="0.119 0 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v5-6.jpg</image>
+    <narration start="JHN.11.5"/>
+    <motion start="0.168 0.071 0.772 0.779" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v7.jpg</image>
+    <narration start="JHN.11.7"/>
+    <motion start="0 0 1 1" end="0.050 0 0.901 0.903"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v8.jpg</image>
+    <narration start="JHN.11.8"/>
+    <motion start="0 0 1 1" end="0.109 0 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v9-10.jpg</image>
+    <narration start="JHN.11.9"/>
+    <motion start="0.124 0 0.752 0.761" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v11.jpg</image>
+    <narration start="JHN.11.11"/>
+    <motion start="0.035 0 0.812 0.814" end="0.178 0 0.762 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v12.jpg</image>
+    <narration start="JHN.11.12"/>
+    <motion start="0 0 0.847 0.850" end="0 0 0.678 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v13.jpg</image>
+    <narration start="JHN.11.13"/>
+    <motion start="0 0 0.832 0.832" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v14.jpg</image>
+    <narration start="JHN.11.14"/>
+    <motion start="0.084 0 0.748 0.752" end="0.168 0.018 0.668 0.673"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v15.jpg</image>
+    <narration start="JHN.11.15"/>
+    <motion start="0 0 0.851 0.858" end="0.059 0.018 0.718 0.717"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v16.jpg</image>
+    <narration start="JHN.11.16"/>
+    <motion start="0 0 0.812 0.814" end="0.104 0 0.792 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v17.jpg</image>
+    <narration start="JHN.11.17"/>
+    <motion start="0.109 0 0.782 0.788" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v18.jpg</image>
+    <narration start="JHN.11.18"/>
+    <motion start="0.059 0 0.881 0.885" end="0.005 0 0.990 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v19.jpg</image>
+    <narration start="JHN.11.19"/>
+    <motion start="0 0 0.866 0.867" end="0.139 0 0.861 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v20.jpg</image>
+    <narration start="JHN.11.20"/>
+    <motion start="0 0 1 1" end="0.178 0 0.822 0.823"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v21-22.jpg</image>
+    <narration start="JHN.11.21"/>
+    <motion start="0 0 1 1" end="0.114 0.177 0.752 0.752"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v23.jpg</image>
+    <narration start="JHN.11.23"/>
+    <motion start="0 0 1 1" end="0.030 0.035 0.847 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v24.jpg</image>
+    <narration start="JHN.11.24"/>
+    <motion start="0 0 0.842 0.841" end="0.129 0.097 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v25.jpg</image>
+    <narration start="JHN.11.25"/>
+    <motion start="0 0 1 1" end="0.233 0 0.767 0.770"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v26.jpg</image>
+    <narration start="JHN.11.26"/>
+    <motion start="0 0 1 1" end="0.040 0.062 0.871 0.876"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v27.jpg</image>
+    <narration start="JHN.11.27"/>
+    <motion start="0 0 1 1" end="0.089 0 0.871 0.876"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v28.jpg</image>
+    <narration start="JHN.11.28"/>
+    <motion start="0.020 0 0.891 0.894" end="0.119 0 0.842 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v29.jpg</image>
+    <narration start="JHN.11.29"/>
+    <motion start="0.198 0 0.802 0.805" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v30.jpg</image>
+    <narration start="JHN.11.30"/>
+    <motion start="0.158 0.106 0.822 0.823" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v31.jpg</image>
+    <narration start="JHN.11.31"/>
+    <motion start="0.173 0.142 0.782 0.779" end="0.015 0.115 0.827 0.832"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v32a.jpg</image>
+    <narration start="JHN.11.32"/>
+    <motion start="0 0 1 1" end="0.089 0.212 0.703 0.708"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v32b.jpg</image>
+    <motion start="0 0 1 1" end="0.074 0 0.851 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v33.jpg</image>
+    <narration start="JHN.11.33"/>
+    <motion start="0 0.053 0.847 0.850" end="0.149 0.088 0.851 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v34a.jpg</image>
+    <narration start="JHN.11.34"/>
+    <motion start="0 0 1 1" end="0.134 0.071 0.832 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v34b.jpg</image>
+    <motion start="0.040 0.071 0.812 0.814" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v35.jpg</image>
+    <narration start="JHN.11.35"/>
+    <motion start="0 0 0.911 0.912" end="0.064 0 0.931 0.929"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v36.jpg</image>
+    <narration start="JHN.11.36"/>
+    <motion start="0.099 0.080 0.901 0.903" end="0.054 0.133 0.861 0.867"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v37.jpg</image>
+    <narration start="JHN.11.37"/>
+    <motion start="0 0 1 1" end="0.064 0.053 0.861 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v38.jpg</image>
+    <narration start="JHN.11.38"/>
+    <motion start="0 0 0.822 0.823" end="0.124 0.142 0.847 0.850"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v39.jpg</image>
+    <narration start="JHN.11.39"/>
+    <motion start="0 0.097 0.842 0.832" end="0.149 0.053 0.851 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v40.jpg</image>
+    <narration start="JHN.11.40"/>
+    <motion start="0 0 0.856 0.858" end="0.094 0 0.906 0.912"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v41.jpg</image>
+    <narration start="JHN.11.41"/>
+    <motion start="0.069 0.115 0.881 0.885" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v42.jpg</image>
+    <narration start="JHN.11.42"/>
+    <motion start="0 0 1 1" end="0.099 0 0.802 0.805"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v43.jpg</image>
+    <narration start="JHN.11.43"/>
+    <motion start="0.119 0.062 0.842 0.841" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v44a.jpg</image>
+    <narration start="JHN.11.44"/>
+    <motion start="0 0 1 1" end="0.074 0.062 0.861 0.867"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v44b.jpg</image>
+    <motion start="0 0.106 0.896 0.894" end="0.109 0.106 0.891 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v45.jpg</image>
+    <narration start="JHN.11.45"/>
+    <motion start="0 0 1 1" end="0 0 0.881 0.885"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v46.jpg</image>
+    <narration start="JHN.11.46"/>
+    <motion start="0.139 0.035 0.861 0.867" end="0.035 0.106 0.832 0.832"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v47-48.jpg</image>
+    <narration start="JHN.11.47"/>
+    <motion start="0.193 0.080 0.693 0.699" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v49.jpg</image>
+    <narration start="JHN.11.49"/>
+    <motion start="0.050 0 0.901 0.903" end="0.099 0.035 0.762 0.761"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v50.jpg</image>
+    <narration start="JHN.11.50"/>
+    <motion start="0.040 0 0.851 0.858" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v51.jpg</image>
+    <narration start="JHN.11.51"/>
+    <motion start="0.005 0 0.990 1" end="0.054 0 0.891 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v52.jpg</image>
+    <narration start="JHN.11.52"/>
+    <motion start="0 0 0.921 0.920" end="0.104 0 0.896 0.894"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v53.jpg</image>
+    <narration start="JHN.11.53"/>
+    <motion start="0.094 0 0.856 0.858" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v54.jpg</image>
+    <narration start="JHN.11.54"/>
+    <motion start="0.129 0.142 0.743 0.743" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v55_.jpg</image>
+    <narration start="JHN.11.55"/>
+    <motion start="0.069 0.195 0.807 0.805" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v56.jpg</image>
+    <narration start="JHN.11.56"/>
+    <motion start="0 0 0.891 0.894" end="0.139 0 0.861 0.867"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn11.01-57 Jesus raises Lazarus/VB-John 11v57.jpg</image>
+    <narration start="JHN.11.57" end="JHN.11.57"/>
+    <motion start="0.079 0 0.842 0.850" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>

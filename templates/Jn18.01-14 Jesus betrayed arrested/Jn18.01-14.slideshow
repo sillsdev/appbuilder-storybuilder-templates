@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow>
+  <title lang="en">Jesus betrayed arrested</title>
+  <title lang="fr">Jésus trahi arrêté</title>
+  <title lang="nl">Jezus verraden gearresteerd</title>
+  <title lang="pt">Jesus traiu preso</title>
+  <title lang="es">Jesús traicionado arrestado</title>
+  <title lang="cust">Jesus betrayed arrested</title>
+  <slide>
+    <audio background="play">
+      <background-filename>../music-intro-Jn.mp3</background-filename>
+    </audio>
+    <image lang="en">Jn18.01-14-title-eng.odg</image>
+    <image lang="fr">Jn18.01-14-title-fra.odg</image>
+    <image lang="nl">Jn18.01-14-title-ndl.odg</image>
+    <image lang="pt">Jn18.01-14-title-por.odg</image>
+    <image lang="es">Jn18.01-14-title-spa.odg</image>
+    <image lang="cust">Jn18.01-14-title-cust.odg</image>
+    <image>Jn18.01-14-title.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v1.jpg</image>
+    <narration start="JHN.18.1"/>
+    <motion start="0.084 0.035 0.703 0.708" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v2.jpg</image>
+    <narration start="JHN.18.2"/>
+    <motion start="0 0 1 1" end="0.129 0.115 0.634 0.637"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v3.jpg</image>
+    <narration start="JHN.18.3"/>
+    <motion start="0.089 0.062 0.743 0.743" end="0.267 0.080 0.723 0.726"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v4.jpg</image>
+    <narration start="JHN.18.4"/>
+    <motion start="0 0 1 1" end="0.129 0.088 0.683 0.681"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v5a.jpg</image>
+    <narration start="JHN.18.5"/>
+    <motion start="0 0 1 1" end="0.183 0.044 0.703 0.699"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v5b.jpg</image>
+    <motion start="0 0 1 1" end="0.005 0.035 0.842 0.841"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v6.jpg</image>
+    <narration start="JHN.18.6"/>
+    <motion start="0.361 0.204 0.609 0.611" end="0.213 0.080 0.787 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v7a.jpg</image>
+    <narration start="JHN.18.7"/>
+    <motion start="0 0 1 1" end="0.030 0.018 0.851 0.858"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v7b.jpg</image>
+    <motion start="0 0 1 1" end="0.203 0 0.797 0.796"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v8.jpg</image>
+    <narration start="JHN.18.8"/>
+    <motion start="0.030 0.035 0.851 0.858" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v9.jpg</image>
+    <narration start="JHN.18.9"/>
+    <motion start="0.010 0.097 0.752 0.761" end="0.243 0.186 0.639 0.637"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v10a.jpg</image>
+    <narration start="JHN.18.10"/>
+    <motion start="0 0 1 1" end="0.129 0.177 0.688 0.690"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v11.jpg</image>
+    <narration start="JHN.18.11"/>
+    <motion start="0.124 0.159 0.663 0.673" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v12.jpg</image>
+    <narration start="JHN.18.12"/>
+    <motion start="0.040 0.097 0.812 0.814" end="0.218 0.115 0.782 0.788"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v13a.jpg</image>
+    <narration start="JHN.18.13"/>
+    <motion start="0 0 1 1" end="0.248 0.080 0.703 0.708"/>
+  </slide>
+  <slide>
+    <image>../../templates/Jn18.01-14 Jesus betrayed arrested/VB-John 18v13b-14.jpg</image>
+    <narration start="JHN.18.14" end="JHN.18.14"/>
+    <motion start="0.124 0.088 0.762 0.770" end="0 0 1 1"/>
+  </slide>
+  <slide>
+    <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="fr">../Gospel of John-credits-fra.odg</image>
+    <image lang="nl">../Gospel of John-credits-ndl.odg</image>
+    <image lang="pt">../Gospel of John-credits-por.odg</image>
+    <image lang="es">../Gospel of John-credits-spa.odg</image>
+    <image lang="cust">../Gospel of John-credits-cust.odg</image>
+    <image>../Gospel of John-credits.jpg</image>
+    <timing duration="5000"/>
+  </slide>
+</slideshow>
