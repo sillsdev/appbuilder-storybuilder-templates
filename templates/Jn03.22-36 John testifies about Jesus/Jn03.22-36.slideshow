@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <slideshow>
   <title lang="en">John testifies about Jesus</title>
+  <title lang="de">Johannes bezeugt Jesus</title>
   <title lang="fr">Jean témoigne à propos de Jésus</title>
   <title lang="nl">Johannes getuigt over Jezus</title>
   <title lang="pt">João testifica sobre Jesus</title>
@@ -11,6 +12,7 @@
       <background-filename>../music-intro-Jn.mp3</background-filename>
     </audio>
     <image lang="en">Jn03.22-36-title-eng.odg</image>
+    <image lang="de">Jn03.22-36-title-deu.odg</image>
     <image lang="fr">Jn03.22-36-title-fra.odg</image>
     <image lang="nl">Jn03.22-36-title-ndl.odg</image>
     <image lang="pt">Jn03.22-36-title-por.odg</image>
@@ -20,62 +22,63 @@
     <timing duration="5000"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v22.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v22.jpg</image>
     <narration start="JHN.3.22"/>
     <motion start="0.249 0.077 0.751 0.750" end="-0.010 0.206 0.767 0.765"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v23-24.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v23-24.jpg</image>
     <narration start="JHN.3.23"/>
     <motion start="0 0 1 1" end="-0.010 0.324 0.687 0.686"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v25.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v25.jpg</image>
     <narration start="JHN.3.25"/>
     <motion start="0 0.125 0.784 0.779" end="0.135 0.077 0.827 0.827"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v26.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v26.jpg</image>
     <narration start="JHN.3.26"/>
     <motion start="0.099 0.088 0.827 0.832" end="0 0 1 1"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v27.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v27.jpg</image>
     <narration start="JHN.3.27"/>
     <motion start="0 0 1 1" end="0.178 0.124 0.673 0.673"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v28.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v28.jpg</image>
     <narration start="JHN.3.28"/>
     <motion start="0.208 0.053 0.752 0.752" end="0 0 1 1"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v29.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v29.jpg</image>
     <narration start="JHN.3.29"/>
     <motion start="0.195 0.029 0.805 0.808" end="0 0.067 0.762 0.760"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v30-31.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v30-31.jpg</image>
     <narration start="JHN.3.30"/>
     <motion start="0 0 1 1" end="0.144 0.062 0.792 0.796"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v32-33.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v32-33.jpg</image>
     <narration start="JHN.3.32"/>
     <motion start="0.016 0.058 0.762 0.760" end="0.135 0.029 0.784 0.788"/>
   </slide>
-  <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v36.jpg</image>
+   <slide>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v34-35.jpg</image>
     <narration start="JHN.3.34"/>
     <motion start="0 0 1 1" end="0.134 0.106 0.772 0.770"/>
   </slide>
   <slide>
-    <image>../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v34-35.jpg</image>
+    <image>../../templates/Jn03.22-36 John testifies about Jesus/VB-John 3v36.jpg</image>
     <narration start="JHN.3.36" end="JHN.3.36"/>
     <motion start="0.163 0.062 0.658 0.655" end="0 0 1 1"/>
   </slide>
   <slide>
     <image lang="en">../Gospel of John-credits-eng.odg</image>
+    <image lang="de">../Gospel of John-credits-deu.odg</image>
     <image lang="fr">../Gospel of John-credits-fra.odg</image>
     <image lang="nl">../Gospel of John-credits-ndl.odg</image>
     <image lang="pt">../Gospel of John-credits-por.odg</image>
